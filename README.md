@@ -1,4 +1,6 @@
-
+<p align="center" dir="auto">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=30&text=Jefe%20the%20Pug&fontColor=ffffff&fontSize=90&rotate=2&fontAlignY=35"/>
+</p>
 
 <p align="center" dir="auto">
   <a href="https://jefethepug.github.io/portfolioSite/" target="_blank" style="text-decoration: none;">
