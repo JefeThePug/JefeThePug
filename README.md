@@ -1,7 +1,6 @@
-<style>a {text-decoration: none;}</style>
-
-<p align="center" dir="auto">
+<p class="top-holder" align="center" dir="auto" style="position: relative;">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=30&text=Jefe%20the%20Pug&fontColor=ffffff&fontSize=90&rotate=2&fontAlignY=35"/>
+  <img class="logo" src="jefe.svg" height="80" style="position: absolute; top: 1em; right: 1em;"
 </p>
 
 <p align="center" dir="auto">
@@ -15,9 +14,8 @@
     <img src="coffee.svg" height="40"/>
   </a>
 </p>
-<div style="display: flex; justify-content: space-around;">
-  
-</div>
+<hr/>
+
 <p align="center" dir="auto">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=85&color=0:A5FECB,50:20BDFF,100:5433FF&reversal=false&section=footer"/>
 </p>
