@@ -1,16 +1,24 @@
-## Hi there 👋
+<style>a {text-decoration: none;}</style>
 
-<!--
-**JefeThePug/JefeThePug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" dir="auto">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=30&text=Jefe%20the%20Pug&fontColor=ffffff&fontSize=90&rotate=2&fontAlignY=35"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center" dir="auto">
+  <a href="https://jefethepug.github.io/portfolioSite/" target="_blank" style="text-decoration: none;">
+    <img src="website.svg" height="40"/>
+  </a>
+  <a href="https://discord.com/users/609283782897303554" target="_blank" style="text-decoration: none;">
+    <img src="https://www.svgrepo.com/show/331368/discord-v2.svg" height="40"/>
+  </a>
+  <a href="https://buymeacoffee.com/jefethepug" target="_blank" style="text-decoration: none;">
+    <img src="coffee.svg" height="40"/>
+  </a>
+</p>
+<div style="display: flex; justify-content: space-around;">
+  
+</div>
+<p align="center" dir="auto">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=85&color=0:A5FECB,50:20BDFF,100:5433FF&reversal=false&section=footer"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
