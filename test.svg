@@ -1,0 +1,34 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                @keyframes rotate {
+                    0% {
+                        transform: rotate(3deg);
+                    }
+                    100% {
+                        transform: rotate(-3deg);
+                    }
+                }
+
+                img {
+                    position: absolute
+                }
+
+                p {
+                    position: relative;
+                }
+
+                .logo {
+                top: 1em;
+                right: 1em;
+                animation: rotate 5s linear infinite;
+                }
+            </style>
+            <p align="center" dir="auto">
+                <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=30&text=Jefe%20the%20Pug&fontColor=ffffff&fontSize=90&rotate=2&fontAlignY=35"/>
+                <img class="logo" height="80" src="https://raw.githubusercontent.com/JefeThePug/JefeThePug/main/jefe.svg"/>
+            </p>
+        </div>
+    </foreignObject>
+</svg>
