@@ -15,7 +15,7 @@
 </p>
 <hr/>
 <p align="center" dir="auto">
-  <img h-space="0" v-space="0" height="80" src="https://media.giphy.com/media/mWVu0FoJuq6cg/giphy.gif?cid=ecf05e47nujsv60lda1mml92gnfcxqwrlqbelpv614oafemf&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+  <img src="jefe.svg"/>
 </p>
 
 <p align="center" dir="auto">
