@@ -38,185 +38,205 @@ body {
   -webkit-animation-fill-mode: forwards;
   animation-fill-mode: forwards;
 }
-.typing p:first-child {
+.typing p:nth-child(1) { 
   width: 19ch;
-  animation-duration: 2s;
-  animation-timing-function: steps(19, end);
+  -webkit-animation-duration: 1.9s;
+  -webkit-animation-delay: 0s;
+  -webkit-animation-timing-function: steps(19, end); 
+  animation-duration: 1.9s;
+  animation-delay: 0s;
+  animation-timing-function: steps(19, end); 
 }
-
 .typing p:nth-child(2) { 
   width: 23ch;
-  opacity: 0;
-  -webkit-animation-delay: 2s;
-  animation-duration: 3s;
-  animation-delay: 2s;
+  -webkit-animation-duration: 2.3s;
+  -webkit-animation-delay: 1.9s;
+  -webkit-animation-timing-function: steps(23, end); 
+  animation-duration: 2.3s;
+  animation-delay: 1.9s;
   animation-timing-function: steps(23, end); 
 }
-.typing p:nth-child(3) {
+.typing p:nth-child(3) { 
   width: 18ch;
-  opacity: 0;
-  -webkit-animation-delay: 5s;
-  animation-duration: 2s;
-  animation-delay: 5s;
-  animation-timing-function: steps(18, end);
+  -webkit-animation-duration: 1.8s;
+  -webkit-animation-delay: 4.199999999999999s;
+  -webkit-animation-timing-function: steps(18, end); 
+  animation-duration: 1.8s;
+  animation-delay: 4.199999999999999s;
+  animation-timing-function: steps(18, end); 
 }
 .typing p:nth-child(4) { 
   width: 2ch;
-  opacity: 0;
-  -webkit-animation-delay: 7s;
-  animation-duration: 1s;
-  animation-delay: 7s;
-  animation-timing-function: steps(2, end);
+  -webkit-animation-duration: 0.2s;
+  -webkit-animation-delay: 5.999999999999999s;
+  -webkit-animation-timing-function: steps(2, end); 
+  animation-duration: 0.2s;
+  animation-delay: 5.999999999999999s;
+  animation-timing-function: steps(2, end); 
 }
-.typing p:nth-child(5) {
+.typing p:nth-child(5) { 
   width: 22ch;
-  opacity: 0;
-  -webkit-animation-delay: 8s;
-  animation-duration: 3s;
-  animation-delay: 8s;
-  animation-timing-function: steps(22, end);
+  -webkit-animation-duration: 2.2s;
+  -webkit-animation-delay: 6.199999999999999s;
+  -webkit-animation-timing-function: steps(22, end); 
+  animation-duration: 2.2s;
+  animation-delay: 6.199999999999999s;
+  animation-timing-function: steps(22, end); 
 }
 .typing p:nth-child(6) { 
   width: 21ch;
-  opacity: 0;
-  -webkit-animation-delay: 11s;
-  animation-duration: 3s;
-  animation-delay: 11s;
-  animation-timing-function: steps(21, end);
+  -webkit-animation-duration: 2.1s;
+  -webkit-animation-delay: 8.399999999999999s;
+  -webkit-animation-timing-function: steps(21, end); 
+  animation-duration: 2.1s;
+  animation-delay: 8.399999999999999s;
+  animation-timing-function: steps(21, end); 
 }
-.typing p:nth-child(7) {
+.typing p:nth-child(7) { 
   width: 2ch;
-  opacity: 0;
-  -webkit-animation-delay: 14s;
-  animation-duration: 1s;
-  animation-delay: 14s;
-  animation-timing-function: steps(2, end);
+  -webkit-animation-duration: 0.2s;
+  -webkit-animation-delay: 10.499999999999998s;
+  -webkit-animation-timing-function: steps(2, end); 
+  animation-duration: 0.2s;
+  animation-delay: 10.499999999999998s;
+  animation-timing-function: steps(2, end); 
 }
 .typing p:nth-child(8) { 
   width: 11ch;
-  opacity: 0;
-  -webkit-animation-delay: 15s;
-  animation-duration: 2s;
-  animation-delay: 15s;
-  animation-timing-function: steps(11, end);
+  -webkit-animation-duration: 1.1s;
+  -webkit-animation-delay: 10.699999999999998s;
+  -webkit-animation-timing-function: steps(11, end); 
+  animation-duration: 1.1s;
+  animation-delay: 10.699999999999998s;
+  animation-timing-function: steps(11, end); 
 }
-.typing p:nth-child(9) {
+.typing p:nth-child(9) { 
   width: 2ch;
-  opacity: 0;
-  -webkit-animation-delay: 17s;
-  animation-duration: 1s;
-  animation-delay: 17s;
-  animation-timing-function: steps(2, end);
+  -webkit-animation-duration: 0.2s;
+  -webkit-animation-delay: 11.799999999999997s;
+  -webkit-animation-timing-function: steps(2, end); 
+  animation-duration: 0.2s;
+  animation-delay: 11.799999999999997s;
+  animation-timing-function: steps(2, end); 
 }
 .typing p:nth-child(10) { 
   width: 36ch;
-  opacity: 0;
-  -webkit-animation-delay: 18s;
-  animation-duration: 4s;
-  animation-delay: 18s;
-  animation-timing-function: steps(36, end);
+  -webkit-animation-duration: 3.6s;
+  -webkit-animation-delay: 11.999999999999996s;
+  -webkit-animation-timing-function: steps(36, end); 
+  animation-duration: 3.6s;
+  animation-delay: 11.999999999999996s;
+  animation-timing-function: steps(36, end); 
 }
-.typing p:nth-child(11) {
+.typing p:nth-child(11) { 
   width: 25ch;
-  opacity: 0;
-  -webkit-animation-delay: 22s;
-  animation-duration: 2s;
-  animation-delay: 22s;
-  animation-timing-function: steps(25, end);
+  -webkit-animation-duration: 2.5s;
+  -webkit-animation-delay: 15.599999999999996s;
+  -webkit-animation-timing-function: steps(25, end); 
+  animation-duration: 2.5s;
+  animation-delay: 15.599999999999996s;
+  animation-timing-function: steps(25, end); 
 }
 .typing p:nth-child(12) { 
   width: 2ch;
-  opacity: 0;
-  -webkit-animation-delay: 25s;
-  animation-duration: 1s;
-  animation-delay: 24s;
-  animation-timing-function: steps(2, end);
+  -webkit-animation-duration: 0.2s;
+  -webkit-animation-delay: 18.099999999999994s;
+  -webkit-animation-timing-function: steps(2, end); 
+  animation-duration: 0.2s;
+  animation-delay: 18.099999999999994s;
+  animation-timing-function: steps(2, end); 
 }
-.typing p:nth-child(13) {
+.typing p:nth-child(13) { 
   width: 50ch;
-  opacity: 0;
-  -webkit-animation-delay: 26s;
-  animation-duration: 5s;
-  animation-delay: 25s;
-  animation-timing-function: steps(50, end);
+  -webkit-animation-duration: 5.0s;
+  -webkit-animation-delay: 18.299999999999994s;
+  -webkit-animation-timing-function: steps(50, end); 
+  animation-duration: 5.0s;
+  animation-delay: 18.299999999999994s;
+  animation-timing-function: steps(50, end); 
 }
 .typing p:nth-child(14) { 
-  width: 51ch;
-  opacity: 0;
-  -webkit-animation-delay: 31s;
-  animation-duration: 5s;
-  animation-delay: 30s;
-  animation-timing-function: steps(51, end);
+  width: 52ch;
+  -webkit-animation-duration: 5.2s;
+  -webkit-animation-delay: 23.299999999999994s;
+  -webkit-animation-timing-function: steps(52, end); 
+  animation-duration: 5.2s;
+  animation-delay: 23.299999999999994s;
+  animation-timing-function: steps(52, end); 
 }
-.typing p:nth-child(15) {
+.typing p:nth-child(15) { 
   width: 9ch;
-  opacity: 0;
-  -webkit-animation-delay: 36s;
-  animation-duration: 1s;
-  animation-delay: 35s;
-  animation-timing-function: steps(9, end);
+  -webkit-animation-duration: 0.9s;
+  -webkit-animation-delay: 28.499999999999993s;
+  -webkit-animation-timing-function: steps(9, end); 
+  animation-duration: 0.9s;
+  animation-delay: 28.499999999999993s;
+  animation-timing-function: steps(9, end); 
 }
 .typing p:nth-child(16) { 
   width: 2ch;
-  opacity: 0;
-  -webkit-animation-delay: 37s;
-  animation-duration: 1s;
-  animation-delay: 36s;
-  animation-timing-function: steps(2, end);
+  -webkit-animation-duration: 0.2s;
+  -webkit-animation-delay: 29.39999999999999s;
+  -webkit-animation-timing-function: steps(2, end); 
+  animation-duration: 0.2s;
+  animation-delay: 29.39999999999999s;
+  animation-timing-function: steps(2, end); 
 }
-.typing p:nth-child(17) {
+.typing p:nth-child(17) { 
   width: 8ch;
-  opacity: 0;
-  -webkit-animation-delay: 38s;
-  animation-duration: 1s;
-  animation-delay: 37s;
-  animation-timing-function: steps(8, end);
+  -webkit-animation-duration: 0.8s;
+  -webkit-animation-delay: 29.59999999999999s;
+  -webkit-animation-timing-function: steps(8, end); 
+  animation-duration: 0.8s;
+  animation-delay: 29.59999999999999s;
+  animation-timing-function: steps(8, end); 
 }
 .typing p:nth-child(18) { 
   width: 11ch;
-  opacity: 0;
-  -webkit-animation-delay: 39s;
-  animation-duration: 2s;
-  animation-delay: 38s;
-  animation-timing-function: steps(11, end);
+  -webkit-animation-duration: 1.1s;
+  -webkit-animation-delay: 30.39999999999999s;
+  -webkit-animation-timing-function: steps(11, end); 
+  animation-duration: 1.1s;
+  animation-delay: 30.39999999999999s;
+  animation-timing-function: steps(11, end); 
 }
-.typing p:nth-child(19) {
+.typing p:nth-child(19) { 
   width: 10ch;
-  opacity: 0;
-  -webkit-animation-delay: 41s;
-  animation-duration: 1s;
-  animation-delay: 40s;
-  animation-timing-function: steps(10, end);
+  -webkit-animation-duration: 1.0s;
+  -webkit-animation-delay: 31.499999999999993s;
+  -webkit-animation-timing-function: steps(10, end); 
+  animation-duration: 1.0s;
+  animation-delay: 31.499999999999993s;
+  animation-timing-function: steps(10, end); 
 }
 .typing p:nth-child(20) { 
   width: 7ch;
-  opacity: 0;
-  -webkit-animation-delay: 42s;
-  animation-duration: 1s;
-  animation-delay: 41s;
-  animation-timing-function: steps(7, end);
+  -webkit-animation-duration: 0.7s;
+  -webkit-animation-delay: 32.49999999999999s;
+  -webkit-animation-timing-function: steps(7, end); 
+  animation-duration: 0.7s;
+  animation-delay: 32.49999999999999s;
+  animation-timing-function: steps(7, end); 
 }
-.typing p:nth-child(21) {
+.typing p:nth-child(21) { 
   width: 9ch;
-  opacity: 0;
-  -webkit-animation-delay: 43s;
-  animation-duration: 1s;
-  animation-delay: 42s;
-  animation-timing-function: steps(9, end);
+  -webkit-animation-duration: 0.9s;
+  -webkit-animation-delay: 33.199999999999996s;
+  -webkit-animation-timing-function: steps(9, end); 
+  animation-duration: 0.9s;
+  animation-delay: 33.199999999999996s;
+  animation-timing-function: steps(9, end); 
+}
+.typing p:nth-child(22) { 
+  width: 2ch;
+  -webkit-animation-duration: 0.2s;
+  -webkit-animation-delay: 34.099999999999994s;
+  -webkit-animation-timing-function: steps(2, end); 
+  animation-duration: 0.2s;
+  animation-delay: 34.099999999999994s;
+  animation-timing-function: steps(2, end); 
 }
 
-.typing p:last-child {
-  width: 2ch;
-  opacity: 0;
-  -webkit-animation: type 1s steps(2, end) 43s forwards;
-  animation: type 1s steps(2, end) 43s forwards;
-}
-.typing p:last-child::after {
-  content: '';
-  border-right: .15em solid var(--cursor);
-  -webkit-animation: blink .5s step-end infinite alternate;
-  animation: blink .5s step-end infinite alternate;
-}
 
 
 @keyframes type {
@@ -305,11 +325,9 @@ body {
   </p>
   <p>
     <span class="key">fields_of_interests</span>:
-    <span class="key">[</span>
-    <span class="key">"<span class="val">Python</span><span class="key">"</span>,
-      <span class="key">"<span class="val">SQL</span><span class="key">"</span>,
-        <span class="key">"<span class="val">Flask</span><span class="key">"</span>
-          <span class="key">]</span>
+    <span class="key">[ "</span><span class="val">Python</span><span class="key">"</span>,
+    <span class="key">"</span><span class="val">SQL</span><span class="key">"</span>,
+    <span class="key">"</span><span class="val">Flask</span><span class="key">" ]</span>
   </p>
   <p>
     <span class="key">currently_learning</span>:
