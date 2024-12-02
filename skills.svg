@@ -2,11 +2,7 @@
 
 
 <style>
-:root {
-  --cursor: cyan;
-}
-
-body {
+div {
   background-color: black;
   color: white;
 }
@@ -27,7 +23,7 @@ body {
 }
 
 .typing p {
-  border-right: .15em solid var(--cursor);
+  border-right: .15em solid cyan;
   font-family: "Courier";
   font-size: 14px;
   white-space: nowrap;
@@ -247,7 +243,7 @@ body {
     opacity: 1;
   }
   99.9% {
-    border-right: .15em solid var(--cursor);
+    border-right: .15em solid cyan;
   }
   100% {
     opacity: 1;
@@ -263,7 +259,7 @@ body {
     opacity: 1;
   }
   99.9% {
-    border-right: .15em solid var(--cursor);
+    border-right: .15em solid cyan;
   }
   100% {
     opacity: 1;
@@ -285,7 +281,6 @@ body {
 
 <!-- foreignObject containing an <img> with a data URL -->
   <foreignObject x="0" y="0" width="400" height="400">
-    <body xmlns="http://www.w3.org/1999/xhtml">
 <div class="typing">
   <p>
     <span class="key">name</span>: Jefe the Pug
@@ -360,8 +355,5 @@ body {
     <span class="key">]</span>
   </p>
 </div>
-
-    </body>
-
   </foreignObject>
 </svg>
