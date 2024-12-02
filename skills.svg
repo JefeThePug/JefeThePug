@@ -1,0 +1,349 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+
+
+<style>
+:root {
+  --cursor: cyan;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+.twospace, .fourspace {
+  margin-top: -1em;
+}
+.twospace {
+  margin-left: 1em;
+}
+.fourspace {
+  margin-left: 2em;
+}
+.key {
+  color: mediumaquamarine;
+}
+.val {
+  color: royalblue;
+}
+
+.typing p {
+  border-right: .15em solid var(--cursor);
+  font-family: "Courier";
+  font-size: 14px;
+  white-space: nowrap;
+  overflow: hidden;
+  opacity: 0;
+  -webkit-animation: type 1s steps(40, end);
+  animation: type 3s steps(40, end);
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+}
+.typing p:first-child {
+  width: 19ch;
+  animation-duration: 2s;
+  animation-timing-function: steps(19, end);
+}
+
+.typing p:nth-child(2) { 
+  width: 23ch;
+  opacity: 0;
+  -webkit-animation-delay: 2s;
+  animation-duration: 3s;
+  animation-delay: 2s;
+  animation-timing-function: steps(23, end); 
+}
+.typing p:nth-child(3) {
+  width: 18ch;
+  opacity: 0;
+  -webkit-animation-delay: 5s;
+  animation-duration: 2s;
+  animation-delay: 5s;
+  animation-timing-function: steps(18, end);
+}
+.typing p:nth-child(4) { 
+  width: 2ch;
+  opacity: 0;
+  -webkit-animation-delay: 7s;
+  animation-duration: 1s;
+  animation-delay: 7s;
+  animation-timing-function: steps(2, end);
+}
+.typing p:nth-child(5) {
+  width: 22ch;
+  opacity: 0;
+  -webkit-animation-delay: 8s;
+  animation-duration: 3s;
+  animation-delay: 8s;
+  animation-timing-function: steps(22, end);
+}
+.typing p:nth-child(6) { 
+  width: 21ch;
+  opacity: 0;
+  -webkit-animation-delay: 11s;
+  animation-duration: 3s;
+  animation-delay: 11s;
+  animation-timing-function: steps(21, end);
+}
+.typing p:nth-child(7) {
+  width: 2ch;
+  opacity: 0;
+  -webkit-animation-delay: 14s;
+  animation-duration: 1s;
+  animation-delay: 14s;
+  animation-timing-function: steps(2, end);
+}
+.typing p:nth-child(8) { 
+  width: 11ch;
+  opacity: 0;
+  -webkit-animation-delay: 15s;
+  animation-duration: 2s;
+  animation-delay: 15s;
+  animation-timing-function: steps(11, end);
+}
+.typing p:nth-child(9) {
+  width: 2ch;
+  opacity: 0;
+  -webkit-animation-delay: 17s;
+  animation-duration: 1s;
+  animation-delay: 17s;
+  animation-timing-function: steps(2, end);
+}
+.typing p:nth-child(10) { 
+  width: 36ch;
+  opacity: 0;
+  -webkit-animation-delay: 18s;
+  animation-duration: 4s;
+  animation-delay: 18s;
+  animation-timing-function: steps(36, end);
+}
+.typing p:nth-child(11) {
+  width: 25ch;
+  opacity: 0;
+  -webkit-animation-delay: 22s;
+  animation-duration: 2s;
+  animation-delay: 22s;
+  animation-timing-function: steps(25, end);
+}
+.typing p:nth-child(12) { 
+  width: 2ch;
+  opacity: 0;
+  -webkit-animation-delay: 25s;
+  animation-duration: 1s;
+  animation-delay: 24s;
+  animation-timing-function: steps(2, end);
+}
+.typing p:nth-child(13) {
+  width: 50ch;
+  opacity: 0;
+  -webkit-animation-delay: 26s;
+  animation-duration: 5s;
+  animation-delay: 25s;
+  animation-timing-function: steps(50, end);
+}
+.typing p:nth-child(14) { 
+  width: 51ch;
+  opacity: 0;
+  -webkit-animation-delay: 31s;
+  animation-duration: 5s;
+  animation-delay: 30s;
+  animation-timing-function: steps(51, end);
+}
+.typing p:nth-child(15) {
+  width: 9ch;
+  opacity: 0;
+  -webkit-animation-delay: 36s;
+  animation-duration: 1s;
+  animation-delay: 35s;
+  animation-timing-function: steps(9, end);
+}
+.typing p:nth-child(16) { 
+  width: 2ch;
+  opacity: 0;
+  -webkit-animation-delay: 37s;
+  animation-duration: 1s;
+  animation-delay: 36s;
+  animation-timing-function: steps(2, end);
+}
+.typing p:nth-child(17) {
+  width: 8ch;
+  opacity: 0;
+  -webkit-animation-delay: 38s;
+  animation-duration: 1s;
+  animation-delay: 37s;
+  animation-timing-function: steps(8, end);
+}
+.typing p:nth-child(18) { 
+  width: 11ch;
+  opacity: 0;
+  -webkit-animation-delay: 39s;
+  animation-duration: 2s;
+  animation-delay: 38s;
+  animation-timing-function: steps(11, end);
+}
+.typing p:nth-child(19) {
+  width: 10ch;
+  opacity: 0;
+  -webkit-animation-delay: 41s;
+  animation-duration: 1s;
+  animation-delay: 40s;
+  animation-timing-function: steps(10, end);
+}
+.typing p:nth-child(20) { 
+  width: 7ch;
+  opacity: 0;
+  -webkit-animation-delay: 42s;
+  animation-duration: 1s;
+  animation-delay: 41s;
+  animation-timing-function: steps(7, end);
+}
+.typing p:nth-child(21) {
+  width: 9ch;
+  opacity: 0;
+  -webkit-animation-delay: 43s;
+  animation-duration: 1s;
+  animation-delay: 42s;
+  animation-timing-function: steps(9, end);
+}
+
+.typing p:last-child {
+  width: 2ch;
+  opacity: 0;
+  -webkit-animation: type 1s steps(2, end) 43s forwards;
+  animation: type 1s steps(2, end) 43s forwards;
+}
+.typing p:last-child::after {
+  content: '';
+  border-right: .15em solid var(--cursor);
+  -webkit-animation: blink .5s step-end infinite alternate;
+  animation: blink .5s step-end infinite alternate;
+}
+
+
+@keyframes type {
+  0% {
+    width: 0;
+  }
+  1% {
+    opacity: 1;
+  }
+  99.9% {
+    border-right: .15em solid var(--cursor);
+  }
+  100% {
+    opacity: 1;
+    border: none;
+  }
+}
+
+@-webkit-keyframes type {
+  0% {
+    width: 0;
+  }
+  1% {
+    opacity: 1;
+  }
+  99.9% {
+    border-right: .15em solid var(--cursor);
+  }
+  100% {
+    opacity: 1;
+    border: none;
+  }
+}
+
+@keyframes blink {
+  50% {
+    border-color: transparent;
+  }
+}
+@-webkit-keyframes blink {
+  50% {
+    border-color: tranparent;
+  }
+}
+</style>
+
+<!-- foreignObject containing an <img> with a data URL -->
+  <foreignObject x="0" y="0" width="400" height="400">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+<div class="typing">
+  <p>
+    <span class="key">name</span>: Jefe the Pug
+  </p>
+  <p>
+    <span class="key">location</span>: Osaka, Japan
+  </p>
+  <p>
+    <span class="key">career_interests</span>:
+  </p>
+  <p class="twospace">
+    <span class="key">[</span>
+  </p>
+  <p class="fourspace">
+    <span class="key">"</span><span class="val">Software Developer</span><span class="key">"</span>,
+  </p>
+  <p class="fourspace">
+    <span class="key">"</span><span class="val">Backend Developer</span><span class="key">"</span>,
+  </p>
+  <p class="twospace">
+    <span class="key">]</span>
+  </p>
+  <p>
+    <span class="key">education</span>:
+  </p>
+  <p class="twospace">
+    <span class="key">[</span>
+  </p>
+  <p class="fourspace">
+    <span class="key">"</span><span class="val">Bachelor of Arts in Choreography</span><span class="key">"</span>,
+  </p>
+  <p class="fourspace">
+    <span class="key">"</span><span class="val">Self-Taught Developer</span><span class="key">"</span>,
+  </p>
+  <p class="twospace">
+    <span class="key">]</span>
+  </p>
+  <p>
+    <span class="key">fields_of_interests</span>:
+    <span class="key">[</span>
+    <span class="key">"<span class="val">Python</span><span class="key">"</span>,
+      <span class="key">"<span class="val">SQL</span><span class="key">"</span>,
+        <span class="key">"<span class="val">Flask</span><span class="key">"</span>
+          <span class="key">]</span>
+  </p>
+  <p>
+    <span class="key">currently_learning</span>:
+    <span class="key">[ "</span><span class="val">AWS</span><span class="key">"</span>,
+    <span class="key">"</span><span class="val">Kotlin</span><span class="key">"</span>,
+    <span class="key">"</span><span class="val">Pyscript</span><span class="key">" ]</span>
+  </p>
+  <p>
+    <span class="key">hobbies</span>:
+  </p>
+  <p class="twospace">
+    <span class="key">[
+  </p>
+  <p class="fourspace">
+    <span class="key">"</span><span class="val">Pugs</span><span class="key">"</span>,
+  </p>
+  <p class="fourspace">
+    <span class="key">"</span><span class="val">Cooking</span><span class="key">"</span>,
+  </p>
+  <p class="fourspace">
+    <span class="key">"</span><span class="val">Movies</span><span class="key">"</span>,
+  </p>
+  <p class="fourspace">
+    <span class="key">"</span><span class="val">Art</span><span class="key">"</span>,
+  </p>
+  <p class="fourspace">
+    <span class="key">"</span><span class="val">Dance</span><span class="key">"</span>,
+  </p>
+  <p class="twospace">
+    <span class="key">]</span>
+  </p>
+</div>
+
+    </body>
+
+  </foreignObject>
+</svg>
