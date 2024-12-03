@@ -21,7 +21,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
     <img src="https://fallendeity.github.io/discord.py-masterclass/assets/logo.png" alt="discord.py" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/p5js/p5js-original.svg" alt="p5.js" width="45" height="45"/>
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/p5js.svg" alt="p5.js" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/JefeThePug/portfolioSite/main/static/img/icons/opyxl.png" alt="openpyxl" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/JefeThePug/portfolioSite/main/static/img/icons/nltk.png" alt="nltk" width="45" height="45"/>
     <img src="https://cdn.sanity.io/images/mhuj7snm/production/64fa9998b50db243e186ae259471b1bc95b356f9-1869x2048.png" alt="tkinter" width="45" height="45"/>
@@ -49,13 +49,18 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="webstorm" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intelliJ" width="45" height="45"/>
-    <img src="https://www.svgrepo.com/show/452109/sublime-text.svg" alt="sublime" width="45" height="45"/>
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sublime-Dark.svg" alt="sublime" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" alt="gimp" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="inkscape" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="photoshop" width="45" height="45"/>
     <img src="https://upload.wikimedia.org/wikipedia/en/5/57/KeynoteIcon.png" alt="keynote" width="45" height="45"/>
     <img src="https://www.svgrepo.com/show/373989/powerpoint.svg" alt="powerpoint" width="45" height="45"/>
   </p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
 </p>
 
 <p align="center" dir="auto">
