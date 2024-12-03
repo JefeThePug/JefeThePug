@@ -17,7 +17,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/>
+    <img src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" alt="flask" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
     <img src="https://fallendeity.github.io/discord.py-masterclass/assets/logo.png" alt="discord.py" width="45" height="45"/>
@@ -28,7 +28,7 @@
     <img src="https://raw.githubusercontent.com/JefeThePug/portfolioSite/main/static/img/icons/pyqt.svg" alt="pyqt" width="45" height="45"/>
     <img src="https://styles.redditmedia.com/t5_2rkfn/styles/communityIcon_cmjo55tgjjp81.png" alt="pygame" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pyscript/pyscript-original-wordmark.svg" alt="pyscript" width="45" height="45"/>
-    <img src="https://www.svgrepo.com/show/330741/jinja.svg" alt="jinja" width="45" height="45"/>
+    <img src="https://www.svgrepo.com/show/373702/jinja.svg" alt="jinja" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
