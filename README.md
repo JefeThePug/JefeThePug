@@ -3,7 +3,32 @@
 </p>
 
 <p align="center" dir="auto">
-  <img src="nav.svg">
+  <table>
+    <tr style="border: none !important;">
+      <td style="border: none !important;">
+        <a href="https://jefethepug.github.io/portfolioSite/" alt="Portfolio Website" target="_blank">
+          <img src="website.svg" height="60">
+        </a>
+      </td>
+      <td rowspan="2" style="border: none !important;">
+        <img src="jefe.svg">
+      </td>
+      <td style="border: none !important;">
+        <a href="https://discord.com/users/609283782897303554" alt="Discord Account"  target="_blank">
+          <img src="discord.svg" height="60">
+        </a>
+      </td>
+    </tr>
+    <tr style="border: none !important;">
+      <td style="border: none !important;">
+        <a href="https://buymeacoffee.com/jefethepug" alt="Buy Me A Coffee" target="_blank">
+          <img src="coffee.svg" height="60">
+        </a>
+      </td>
+      <td style="border: none !important;">
+      </td>
+    </tr>
+  </table>
   <h2>About Me</h2>
   <img src="skills.svg" height="100%"/>
 
