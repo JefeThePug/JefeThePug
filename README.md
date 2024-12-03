@@ -5,7 +5,7 @@
 <p align="center" dir="auto">
   <img src="nav.svg">
   <h2>About Me</h2>
-  <img src="skills.svg"/>
+  <img src="skills.svg" height="100%"/>
 
   <h2>Tools I Have Used and Learned</h2>
   <p align="left">
