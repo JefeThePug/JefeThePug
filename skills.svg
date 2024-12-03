@@ -1,359 +1,379 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+<svg fill="none" viewBox="0 0 500 500" width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        div {
+          background-color: black;
+          color: white;
+          padding: 5px 15px;
+        }
+        .twospace, .fourspace {
+          margin-top: -1em;
+        }
+        .twospace {
+          margin-left: 1em;
+        }
+        .fourspace {
+          margin-left: 2em;
+        }
+        .key {
+          color: mediumaquamarine;
+        }
+        .val {
+          color: royalblue;
+        }
 
+        .typing p {
+          border-right: .15em solid cyan;
+          font-family: "Courier";
+          font-size: 14px;
+          white-space: nowrap;
+          overflow: hidden;
+          opacity: 0;
+          -webkit-animation: type 1s steps(40, end);
+          animation: type 3s steps(40, end);
+          -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+        }
+        .typing p:nth-child(1) { 
+          width: 19ch;
+          -webkit-animation-duration: 1.9s;
+          -webkit-animation-delay: 0s;
+          -webkit-animation-timing-function: steps(19, end); 
+          animation-duration: 1.9s;
+          animation-delay: 0s;
+          animation-timing-function: steps(19, end); 
+        }
+        .typing p:nth-child(2) { 
+          width: 23ch;
+          -webkit-animation-duration: 2.3s;
+          -webkit-animation-delay: 1.9s;
+          -webkit-animation-timing-function: steps(23, end); 
+          animation-duration: 2.3s;
+          animation-delay: 1.9s;
+          animation-timing-function: steps(23, end); 
+        }
+        .typing p:nth-child(3) { 
+          width: 18ch;
+          -webkit-animation-duration: 1.8s;
+          -webkit-animation-delay: 4.199999999999999s;
+          -webkit-animation-timing-function: steps(18, end); 
+          animation-duration: 1.8s;
+          animation-delay: 4.199999999999999s;
+          animation-timing-function: steps(18, end); 
+        }
+        .typing p:nth-child(4) { 
+          width: 2ch;
+          -webkit-animation-duration: 0.2s;
+          -webkit-animation-delay: 5.999999999999999s;
+          -webkit-animation-timing-function: steps(2, end); 
+          animation-duration: 0.2s;
+          animation-delay: 5.999999999999999s;
+          animation-timing-function: steps(2, end); 
+        }
+        .typing p:nth-child(5) { 
+          width: 22ch;
+          -webkit-animation-duration: 2.2s;
+          -webkit-animation-delay: 6.199999999999999s;
+          -webkit-animation-timing-function: steps(22, end); 
+          animation-duration: 2.2s;
+          animation-delay: 6.199999999999999s;
+          animation-timing-function: steps(22, end); 
+        }
+        .typing p:nth-child(6) { 
+          width: 21ch;
+          -webkit-animation-duration: 2.1s;
+          -webkit-animation-delay: 8.399999999999999s;
+          -webkit-animation-timing-function: steps(21, end); 
+          animation-duration: 2.1s;
+          animation-delay: 8.399999999999999s;
+          animation-timing-function: steps(21, end); 
+        }
+        .typing p:nth-child(7) { 
+          width: 2ch;
+          -webkit-animation-duration: 0.2s;
+          -webkit-animation-delay: 10.499999999999998s;
+          -webkit-animation-timing-function: steps(2, end); 
+          animation-duration: 0.2s;
+          animation-delay: 10.499999999999998s;
+          animation-timing-function: steps(2, end); 
+        }
+        .typing p:nth-child(8) { 
+          width: 11ch;
+          -webkit-animation-duration: 1.1s;
+          -webkit-animation-delay: 10.699999999999998s;
+          -webkit-animation-timing-function: steps(11, end); 
+          animation-duration: 1.1s;
+          animation-delay: 10.699999999999998s;
+          animation-timing-function: steps(11, end); 
+        }
+        .typing p:nth-child(9) { 
+          width: 2ch;
+          -webkit-animation-duration: 0.2s;
+          -webkit-animation-delay: 11.799999999999997s;
+          -webkit-animation-timing-function: steps(2, end); 
+          animation-duration: 0.2s;
+          animation-delay: 11.799999999999997s;
+          animation-timing-function: steps(2, end); 
+        }
+        .typing p:nth-child(10) { 
+          width: 36ch;
+          -webkit-animation-duration: 3.6s;
+          -webkit-animation-delay: 11.999999999999996s;
+          -webkit-animation-timing-function: steps(36, end); 
+          animation-duration: 3.6s;
+          animation-delay: 11.999999999999996s;
+          animation-timing-function: steps(36, end); 
+        }
+        .typing p:nth-child(11) { 
+          width: 25ch;
+          -webkit-animation-duration: 2.5s;
+          -webkit-animation-delay: 15.599999999999996s;
+          -webkit-animation-timing-function: steps(25, end); 
+          animation-duration: 2.5s;
+          animation-delay: 15.599999999999996s;
+          animation-timing-function: steps(25, end); 
+        }
+        .typing p:nth-child(12) { 
+          width: 2ch;
+          -webkit-animation-duration: 0.2s;
+          -webkit-animation-delay: 18.099999999999994s;
+          -webkit-animation-timing-function: steps(2, end); 
+          animation-duration: 0.2s;
+          animation-delay: 18.099999999999994s;
+          animation-timing-function: steps(2, end); 
+        }
+        .typing p:nth-child(13) { 
+          width: 50ch;
+          -webkit-animation-duration: 5.0s;
+          -webkit-animation-delay: 18.299999999999994s;
+          -webkit-animation-timing-function: steps(50, end); 
+          animation-duration: 5.0s;
+          animation-delay: 18.299999999999994s;
+          animation-timing-function: steps(50, end); 
+        }
+        .typing p:nth-child(14) { 
+          width: 52ch;
+          -webkit-animation-duration: 5.2s;
+          -webkit-animation-delay: 23.299999999999994s;
+          -webkit-animation-timing-function: steps(52, end); 
+          animation-duration: 5.2s;
+          animation-delay: 23.299999999999994s;
+          animation-timing-function: steps(52, end); 
+        }
+        .typing p:nth-child(15) { 
+          width: 9ch;
+          -webkit-animation-duration: 0.9s;
+          -webkit-animation-delay: 28.499999999999993s;
+          -webkit-animation-timing-function: steps(9, end); 
+          animation-duration: 0.9s;
+          animation-delay: 28.499999999999993s;
+          animation-timing-function: steps(9, end); 
+        }
+        .typing p:nth-child(16) { 
+          width: 2ch;
+          -webkit-animation-duration: 0.2s;
+          -webkit-animation-delay: 29.39999999999999s;
+          -webkit-animation-timing-function: steps(2, end); 
+          animation-duration: 0.2s;
+          animation-delay: 29.39999999999999s;
+          animation-timing-function: steps(2, end); 
+        }
+        .typing p:nth-child(17) { 
+          width: 8ch;
+          -webkit-animation-duration: 0.8s;
+          -webkit-animation-delay: 29.59999999999999s;
+          -webkit-animation-timing-function: steps(8, end); 
+          animation-duration: 0.8s;
+          animation-delay: 29.59999999999999s;
+          animation-timing-function: steps(8, end); 
+        }
+        .typing p:nth-child(18) { 
+          width: 11ch;
+          -webkit-animation-duration: 1.1s;
+          -webkit-animation-delay: 30.39999999999999s;
+          -webkit-animation-timing-function: steps(11, end); 
+          animation-duration: 1.1s;
+          animation-delay: 30.39999999999999s;
+          animation-timing-function: steps(11, end); 
+        }
+        .typing p:nth-child(19) { 
+          width: 10ch;
+          -webkit-animation-duration: 1.0s;
+          -webkit-animation-delay: 31.499999999999993s;
+          -webkit-animation-timing-function: steps(10, end); 
+          animation-duration: 1.0s;
+          animation-delay: 31.499999999999993s;
+          animation-timing-function: steps(10, end); 
+        }
+        .typing p:nth-child(20) { 
+          width: 7ch;
+          -webkit-animation-duration: 0.7s;
+          -webkit-animation-delay: 32.49999999999999s;
+          -webkit-animation-timing-function: steps(7, end); 
+          animation-duration: 0.7s;
+          animation-delay: 32.49999999999999s;
+          animation-timing-function: steps(7, end); 
+        }
+        .typing p:nth-child(21) { 
+          width: 9ch;
+          -webkit-animation-duration: 0.9s;
+          -webkit-animation-delay: 33.199999999999996s;
+          -webkit-animation-timing-function: steps(9, end); 
+          animation-duration: 0.9s;
+          animation-delay: 33.199999999999996s;
+          animation-timing-function: steps(9, end); 
+        }
+        .typing p:nth-child(22) { 
+          width: 2ch;
+          -webkit-animation-duration: 0.2s;
+          -webkit-animation-delay: 34.099999999999994s;
+          -webkit-animation-timing-function: steps(2, end); 
+          animation-duration: 0.2s;
+          animation-delay: 34.099999999999994s;
+          animation-timing-function: steps(2, end); 
+        }
 
-<style>
-div {
-  background-color: black;
-  color: white;
-}
-.twospace, .fourspace {
-  margin-top: -1em;
-}
-.twospace {
-  margin-left: 1em;
-}
-.fourspace {
-  margin-left: 2em;
-}
-.key {
-  color: mediumaquamarine;
-}
-.val {
-  color: royalblue;
-}
+        @keyframes type {
+          0% {
+            width: 0;
+          }
+          1% {
+            opacity: 1;
+          }
+          99.9% {
+            border-right: .15em solid cyan;
+          }
+          100% {
+            opacity: 1;
+            border: none;
+          }
+        }
 
-.typing p {
-  border-right: .15em solid cyan;
-  font-family: "Courier";
-  font-size: 14px;
-  white-space: nowrap;
-  overflow: hidden;
-  opacity: 0;
-  -webkit-animation: type 1s steps(40, end);
-  animation: type 3s steps(40, end);
-  -webkit-animation-fill-mode: forwards;
-  animation-fill-mode: forwards;
-}
-.typing p:nth-child(1) { 
-  width: 19ch;
-  -webkit-animation-duration: 1.9s;
-  -webkit-animation-delay: 0s;
-  -webkit-animation-timing-function: steps(19, end); 
-  animation-duration: 1.9s;
-  animation-delay: 0s;
-  animation-timing-function: steps(19, end); 
-}
-.typing p:nth-child(2) { 
-  width: 23ch;
-  -webkit-animation-duration: 2.3s;
-  -webkit-animation-delay: 1.9s;
-  -webkit-animation-timing-function: steps(23, end); 
-  animation-duration: 2.3s;
-  animation-delay: 1.9s;
-  animation-timing-function: steps(23, end); 
-}
-.typing p:nth-child(3) { 
-  width: 18ch;
-  -webkit-animation-duration: 1.8s;
-  -webkit-animation-delay: 4.199999999999999s;
-  -webkit-animation-timing-function: steps(18, end); 
-  animation-duration: 1.8s;
-  animation-delay: 4.199999999999999s;
-  animation-timing-function: steps(18, end); 
-}
-.typing p:nth-child(4) { 
-  width: 2ch;
-  -webkit-animation-duration: 0.2s;
-  -webkit-animation-delay: 5.999999999999999s;
-  -webkit-animation-timing-function: steps(2, end); 
-  animation-duration: 0.2s;
-  animation-delay: 5.999999999999999s;
-  animation-timing-function: steps(2, end); 
-}
-.typing p:nth-child(5) { 
-  width: 22ch;
-  -webkit-animation-duration: 2.2s;
-  -webkit-animation-delay: 6.199999999999999s;
-  -webkit-animation-timing-function: steps(22, end); 
-  animation-duration: 2.2s;
-  animation-delay: 6.199999999999999s;
-  animation-timing-function: steps(22, end); 
-}
-.typing p:nth-child(6) { 
-  width: 21ch;
-  -webkit-animation-duration: 2.1s;
-  -webkit-animation-delay: 8.399999999999999s;
-  -webkit-animation-timing-function: steps(21, end); 
-  animation-duration: 2.1s;
-  animation-delay: 8.399999999999999s;
-  animation-timing-function: steps(21, end); 
-}
-.typing p:nth-child(7) { 
-  width: 2ch;
-  -webkit-animation-duration: 0.2s;
-  -webkit-animation-delay: 10.499999999999998s;
-  -webkit-animation-timing-function: steps(2, end); 
-  animation-duration: 0.2s;
-  animation-delay: 10.499999999999998s;
-  animation-timing-function: steps(2, end); 
-}
-.typing p:nth-child(8) { 
-  width: 11ch;
-  -webkit-animation-duration: 1.1s;
-  -webkit-animation-delay: 10.699999999999998s;
-  -webkit-animation-timing-function: steps(11, end); 
-  animation-duration: 1.1s;
-  animation-delay: 10.699999999999998s;
-  animation-timing-function: steps(11, end); 
-}
-.typing p:nth-child(9) { 
-  width: 2ch;
-  -webkit-animation-duration: 0.2s;
-  -webkit-animation-delay: 11.799999999999997s;
-  -webkit-animation-timing-function: steps(2, end); 
-  animation-duration: 0.2s;
-  animation-delay: 11.799999999999997s;
-  animation-timing-function: steps(2, end); 
-}
-.typing p:nth-child(10) { 
-  width: 36ch;
-  -webkit-animation-duration: 3.6s;
-  -webkit-animation-delay: 11.999999999999996s;
-  -webkit-animation-timing-function: steps(36, end); 
-  animation-duration: 3.6s;
-  animation-delay: 11.999999999999996s;
-  animation-timing-function: steps(36, end); 
-}
-.typing p:nth-child(11) { 
-  width: 25ch;
-  -webkit-animation-duration: 2.5s;
-  -webkit-animation-delay: 15.599999999999996s;
-  -webkit-animation-timing-function: steps(25, end); 
-  animation-duration: 2.5s;
-  animation-delay: 15.599999999999996s;
-  animation-timing-function: steps(25, end); 
-}
-.typing p:nth-child(12) { 
-  width: 2ch;
-  -webkit-animation-duration: 0.2s;
-  -webkit-animation-delay: 18.099999999999994s;
-  -webkit-animation-timing-function: steps(2, end); 
-  animation-duration: 0.2s;
-  animation-delay: 18.099999999999994s;
-  animation-timing-function: steps(2, end); 
-}
-.typing p:nth-child(13) { 
-  width: 50ch;
-  -webkit-animation-duration: 5.0s;
-  -webkit-animation-delay: 18.299999999999994s;
-  -webkit-animation-timing-function: steps(50, end); 
-  animation-duration: 5.0s;
-  animation-delay: 18.299999999999994s;
-  animation-timing-function: steps(50, end); 
-}
-.typing p:nth-child(14) { 
-  width: 52ch;
-  -webkit-animation-duration: 5.2s;
-  -webkit-animation-delay: 23.299999999999994s;
-  -webkit-animation-timing-function: steps(52, end); 
-  animation-duration: 5.2s;
-  animation-delay: 23.299999999999994s;
-  animation-timing-function: steps(52, end); 
-}
-.typing p:nth-child(15) { 
-  width: 9ch;
-  -webkit-animation-duration: 0.9s;
-  -webkit-animation-delay: 28.499999999999993s;
-  -webkit-animation-timing-function: steps(9, end); 
-  animation-duration: 0.9s;
-  animation-delay: 28.499999999999993s;
-  animation-timing-function: steps(9, end); 
-}
-.typing p:nth-child(16) { 
-  width: 2ch;
-  -webkit-animation-duration: 0.2s;
-  -webkit-animation-delay: 29.39999999999999s;
-  -webkit-animation-timing-function: steps(2, end); 
-  animation-duration: 0.2s;
-  animation-delay: 29.39999999999999s;
-  animation-timing-function: steps(2, end); 
-}
-.typing p:nth-child(17) { 
-  width: 8ch;
-  -webkit-animation-duration: 0.8s;
-  -webkit-animation-delay: 29.59999999999999s;
-  -webkit-animation-timing-function: steps(8, end); 
-  animation-duration: 0.8s;
-  animation-delay: 29.59999999999999s;
-  animation-timing-function: steps(8, end); 
-}
-.typing p:nth-child(18) { 
-  width: 11ch;
-  -webkit-animation-duration: 1.1s;
-  -webkit-animation-delay: 30.39999999999999s;
-  -webkit-animation-timing-function: steps(11, end); 
-  animation-duration: 1.1s;
-  animation-delay: 30.39999999999999s;
-  animation-timing-function: steps(11, end); 
-}
-.typing p:nth-child(19) { 
-  width: 10ch;
-  -webkit-animation-duration: 1.0s;
-  -webkit-animation-delay: 31.499999999999993s;
-  -webkit-animation-timing-function: steps(10, end); 
-  animation-duration: 1.0s;
-  animation-delay: 31.499999999999993s;
-  animation-timing-function: steps(10, end); 
-}
-.typing p:nth-child(20) { 
-  width: 7ch;
-  -webkit-animation-duration: 0.7s;
-  -webkit-animation-delay: 32.49999999999999s;
-  -webkit-animation-timing-function: steps(7, end); 
-  animation-duration: 0.7s;
-  animation-delay: 32.49999999999999s;
-  animation-timing-function: steps(7, end); 
-}
-.typing p:nth-child(21) { 
-  width: 9ch;
-  -webkit-animation-duration: 0.9s;
-  -webkit-animation-delay: 33.199999999999996s;
-  -webkit-animation-timing-function: steps(9, end); 
-  animation-duration: 0.9s;
-  animation-delay: 33.199999999999996s;
-  animation-timing-function: steps(9, end); 
-}
-.typing p:nth-child(22) { 
-  width: 2ch;
-  -webkit-animation-duration: 0.2s;
-  -webkit-animation-delay: 34.099999999999994s;
-  -webkit-animation-timing-function: steps(2, end); 
-  animation-duration: 0.2s;
-  animation-delay: 34.099999999999994s;
-  animation-timing-function: steps(2, end); 
-}
+        @-webkit-keyframes type {
+          0% {
+            width: 0;
+          }
+          1% {
+            opacity: 1;
+          }
+          99.9% {
+            border-right: .15em solid cyan;
+          }
+          100% {
+            opacity: 1;
+            border: none;
+          }
+        }
 
+        @keyframes blink {
+          50% {
+            border-color: transparent;
+          }
+        }
+        @-webkit-keyframes blink {
+          50% {
+            border-color: tranparent;
+          }
+        }
+      </style>
 
+      <div class="typing">
+      <p>
+        <span class="key">name</span>: Jefe the Pug
+      </p>
+      
+      <p>
+        <span class="key">location</span>: Osaka, Japan
+      </p>
+      
+      <p>
+        <span class="key">career_interests</span>:
+      </p>
+    
+      <p class="twospace">
+        <span class="key">[</span>
+      </p>
 
-@keyframes type {
-  0% {
-    width: 0;
-  }
-  1% {
-    opacity: 1;
-  }
-  99.9% {
-    border-right: .15em solid cyan;
-  }
-  100% {
-    opacity: 1;
-    border: none;
-  }
-}
+      <p class="fourspace">
+        <span class="key">"</span><span class="val">Software Developer</span><span class="key">"</span>,
+      </p>
 
-@-webkit-keyframes type {
-  0% {
-    width: 0;
-  }
-  1% {
-    opacity: 1;
-  }
-  99.9% {
-    border-right: .15em solid cyan;
-  }
-  100% {
-    opacity: 1;
-    border: none;
-  }
-}
+      <p class="fourspace">
+        <span class="key">"</span><span class="val">Backend Developer</span><span class="key">"</span>,
+      </p>
+    
+      <p class="twospace">
+        <span class="key">]</span>
+      </p>
 
-@keyframes blink {
-  50% {
-    border-color: transparent;
-  }
-}
-@-webkit-keyframes blink {
-  50% {
-    border-color: tranparent;
-  }
-}
-</style>
+      <p>
+        <span class="key">education</span>:
+      </p>
+      
+      <p class="twospace">
+        <span class="key">[</span>
+      </p>
+      
+      <p class="fourspace">
+        <span class="key">"</span><span class="val">Bachelor of Arts in Choreography</span><span class="key">"</span>,
+      </p>
+      
+      <p class="fourspace">
+        <span class="key">"</span><span class="val">Self-Taught Developer</span><span class="key">"</span>,
+      </p>
+      
+      <p class="twospace">
+        <span class="key">]</span>
+      </p>
+      
+      <p>
+        <span class="key">fields_of_interests</span>:
+        <span class="key">[ "</span><span class="val">Python</span><span class="key">"</span>,
+        <span class="key">"</span><span class="val">SQL</span><span class="key">"</span>,
+        <span class="key">"</span><span class="val">Flask</span><span class="key">" ]</span>
+      </p>
 
-<!-- foreignObject containing an <img> with a data URL -->
-  <foreignObject x="0" y="0" width="400" height="400">
-<div class="typing">
-  <p>
-    <span class="key">name</span>: Jefe the Pug
-  </p>
-  <p>
-    <span class="key">location</span>: Osaka, Japan
-  </p>
-  <p>
-    <span class="key">career_interests</span>:
-  </p>
-  <p class="twospace">
-    <span class="key">[</span>
-  </p>
-  <p class="fourspace">
-    <span class="key">"</span><span class="val">Software Developer</span><span class="key">"</span>,
-  </p>
-  <p class="fourspace">
-    <span class="key">"</span><span class="val">Backend Developer</span><span class="key">"</span>,
-  </p>
-  <p class="twospace">
-    <span class="key">]</span>
-  </p>
-  <p>
-    <span class="key">education</span>:
-  </p>
-  <p class="twospace">
-    <span class="key">[</span>
-  </p>
-  <p class="fourspace">
-    <span class="key">"</span><span class="val">Bachelor of Arts in Choreography</span><span class="key">"</span>,
-  </p>
-  <p class="fourspace">
-    <span class="key">"</span><span class="val">Self-Taught Developer</span><span class="key">"</span>,
-  </p>
-  <p class="twospace">
-    <span class="key">]</span>
-  </p>
-  <p>
-    <span class="key">fields_of_interests</span>:
-    <span class="key">[ "</span><span class="val">Python</span><span class="key">"</span>,
-    <span class="key">"</span><span class="val">SQL</span><span class="key">"</span>,
-    <span class="key">"</span><span class="val">Flask</span><span class="key">" ]</span>
-  </p>
-  <p>
-    <span class="key">currently_learning</span>:
-    <span class="key">[ "</span><span class="val">AWS</span><span class="key">"</span>,
-    <span class="key">"</span><span class="val">Kotlin</span><span class="key">"</span>,
-    <span class="key">"</span><span class="val">Pyscript</span><span class="key">" ]</span>
-  </p>
-  <p>
-    <span class="key">hobbies</span>:
-  </p>
-  <p class="twospace">
-    <span class="key">[
-  </p>
-  <p class="fourspace">
-    <span class="key">"</span><span class="val">Pugs</span><span class="key">"</span>,
-  </p>
-  <p class="fourspace">
-    <span class="key">"</span><span class="val">Cooking</span><span class="key">"</span>,
-  </p>
-  <p class="fourspace">
-    <span class="key">"</span><span class="val">Movies</span><span class="key">"</span>,
-  </p>
-  <p class="fourspace">
-    <span class="key">"</span><span class="val">Art</span><span class="key">"</span>,
-  </p>
-  <p class="fourspace">
-    <span class="key">"</span><span class="val">Dance</span><span class="key">"</span>,
-  </p>
-  <p class="twospace">
-    <span class="key">]</span>
-  </p>
-</div>
+      <p>
+        <span class="key">currently_learning</span>:
+        <span class="key">[ "</span><span class="val">AWS</span><span class="key">"</span>,
+        <span class="key">"</span><span class="val">Kotlin</span><span class="key">"</span>,
+        <span class="key">"</span><span class="val">Pyscript</span><span class="key">" ]</span>
+      </p>
+
+      <p>
+        <span class="key">hobbies</span>:
+      </p>
+
+      <p class="twospace">
+        <span class="key">[</span>
+      </p>
+
+      <p class="fourspace">
+        <span class="key">"</span><span class="val">Pugs</span><span class="key">"</span>,
+      </p>
+
+      <p class="fourspace">
+        <span class="key">"</span><span class="val">Cooking</span><span class="key">"</span>,
+      </p>
+
+      <p class="fourspace">
+        <span class="key">"</span><span class="val">Movies</span><span class="key">"</span>,
+      </p>
+
+      <p class="fourspace">
+        <span class="key">"</span><span class="val">Art</span><span class="key">"</span>,
+      </p>
+
+      <p class="fourspace">
+        <span class="key">"</span><span class="val">Dance</span><span class="key">"</span>,
+      </p>
+
+      <p class="twospace">
+        <span class="key">]</span>
+      </p>
+
+    </div>
+  </div>
   </foreignObject>
 </svg>
