@@ -2,33 +2,33 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=30&text=Jefe%20the%20Pug&fontColor=ffffff&fontSize=90&rotate=2&fontAlignY=35"/>
 </p>
 
-<p align="center" dir="auto">
-  <table>
-    <tr style="border: none !important;">
-      <td style="border: none !important;">
+  <table align="center">
+    <tr>
+      <td>
         <a href="https://jefethepug.github.io/portfolioSite/" alt="Portfolio Website" target="_blank">
           <img src="website.svg" height="60">
         </a>
       </td>
-      <td rowspan="2" style="border: none !important;">
+      <td rowspan="2">
         <img src="jefe.svg">
       </td>
-      <td style="border: none !important;">
+      <td>
         <a href="https://discord.com/users/609283782897303554" alt="Discord Account"  target="_blank">
           <img src="discord.svg" height="60">
         </a>
       </td>
     </tr>
-    <tr style="border: none !important;">
-      <td style="border: none !important;">
+    <tr>
+      <td>
         <a href="https://buymeacoffee.com/jefethepug" alt="Buy Me A Coffee" target="_blank">
           <img src="coffee.svg" height="60">
         </a>
       </td>
-      <td style="border: none !important;">
+      <td>
       </td>
     </tr>
   </table>
+  <hr/>
   <h2>About Me</h2>
   <img src="skills.svg" height="100%"/>
 
@@ -81,8 +81,12 @@
     <img src="https://upload.wikimedia.org/wikipedia/en/5/57/KeynoteIcon.png" alt="keynote" width="45" height="45"/>
     <img src="https://www.svgrepo.com/show/373989/powerpoint.svg" alt="powerpoint" width="45" height="45"/>
   </p>
-<img src="https://raw.githubusercontent.com/JefeThePug/JefeThePug/main/dist/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <p align="center" dir="auto">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=85&color=0:A5FECB,50:20BDFF,100:5433FF&reversal=false&section=footer"/>
