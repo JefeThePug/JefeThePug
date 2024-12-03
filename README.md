@@ -82,11 +82,7 @@
     <img src="https://www.svgrepo.com/show/373989/powerpoint.svg" alt="powerpoint" width="45" height="45"/>
   </p>
   
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/JefeThePug/JefeThePug/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
 
 <p align="center" dir="auto">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=85&color=0:A5FECB,50:20BDFF,100:5433FF&reversal=false&section=footer"/>
