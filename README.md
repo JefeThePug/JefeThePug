@@ -56,7 +56,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/en/5/57/KeynoteIcon.png" alt="keynote" width="45" height="45"/>
     <img src="https://www.svgrepo.com/show/373989/powerpoint.svg" alt="powerpoint" width="45" height="45"/>
   </p>
-![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/JefeThePug/JefeThePug/output/dist/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/JefeThePug/JefeThePug/main/dist/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 <p align="center" dir="auto">
