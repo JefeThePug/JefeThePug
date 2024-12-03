@@ -11,13 +11,21 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: Platane/snk@master
+      - uses: Platane/snk@v2.1.0
         id: snake-gif
         with:
           github_user_name: jefethepug
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
-      - run: git status
+          
+      - name: Create output directory
+        run: mkdir -p dist
+        
+      - name: Check for changes
+        run: |
+          git add .
+          git diff --cached --quiet || git commit -m "Update snake GIF"
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
