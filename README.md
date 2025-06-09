@@ -5,7 +5,7 @@
   <table align="center">
     <tr>
       <td>
-        <a href="https://jefethepug.github.io/portfolioSite/" alt="Portfolio Website" target="_blank">
+        <a href="https://jefethepug.github.io" alt="Portfolio Website" target="_blank">
           <img src="website.svg" height="60">
         </a>
       </td>
