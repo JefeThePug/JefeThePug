@@ -25,6 +25,9 @@
         </a>
       </td>
       <td>
+        <a href="https://adventure.practicalpython.org" alt=Coding Adventure" target="_blank">
+          <img src="puzzle.svg" height="60">
+        </a>
       </td>
     </tr>
   </table>
