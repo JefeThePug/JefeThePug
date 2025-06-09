@@ -329,16 +329,50 @@
       
       <p>
         <span class="key">fields_of_interests</span>:
-        <span class="key">[ "</span><span class="val">Python</span><span class="key">"</span>,
+      </p>
+
+      <p class="twospace">
+        <span class="key">[</span>
+      </p>
+
+      <p class="fourspace">
+        <span class="key">"</span><span class="val">Python</span><span class="key">"</span>,
+      </p>
+
+      <p class="fourspace">
         <span class="key">"</span><span class="val">SQL</span><span class="key">"</span>,
-        <span class="key">"</span><span class="val">Flask</span><span class="key">" ]</span>
+      </p>
+
+      <p class="fourspace">
+        <span class="key">"</span><span class="val">Flask</span><span class="key">"</span>,
+      </p>
+
+      <p class="twospace">
+        <span class="key">]</span>
       </p>
 
       <p>
-        <span class="key">currently_learning</span>:
-        <span class="key">[ "</span><span class="val">AWS</span><span class="key">"</span>,
-        <span class="key">"</span><span class="val">Kotlin</span><span class="key">"</span>,
-        <span class="key">"</span><span class="val">Pyscript</span><span class="key">" ]</span>
+        <span class="key">currently learnings</span>:
+      </p>
+
+      <p class="twospace">
+        <span class="key">[</span>
+      </p>
+
+      <p class="fourspace">
+        <span class="key">"</span><span class="val">Java</span><span class="key">"</span>,
+      </p>
+
+      <p class="fourspace">
+        <span class="key">"</span><span class="val">AWS</span><span class="key">"</span>,
+      </p>
+
+      <p class="fourspace">
+        <span class="key">"</span><span class="val">Pyscript</span><span class="key">"</span>,
+      </p>
+
+      <p class="twospace">
+        <span class="key">]</span>
       </p>
 
       <p>
