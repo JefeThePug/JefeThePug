@@ -59,7 +59,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pyscript/pyscript-original-wordmark.svg" alt="pyscript" title="Pyscript" width="45" height="45"/>
     <img src="https://www.svgrepo.com/show/373702/jinja.svg" alt="jinja" title="Jinja" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" title="SQLite" width="45" height="45"/> 
-    <img src="https://cdn.jsdelivr.net/gh/JefeThePug/JefeThePug/sqlalchemy.svg" alt="sqlalchemy" title="SQLAlchemy" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/JefeThePug/JefeThePug/skills/sqlalchemy.svg" alt="sqlalchemy" title="SQLAlchemy" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" title="PostgreSQL" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" title="MongoDB" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" title="Postman" width="45" height="45"/>
@@ -72,7 +72,7 @@
     <img src="https://github.com/detain/svg-logos/blob/master/svg/g/github-icon-2.svg" title="GitHub" alt="github" width="45" height="45"/>
     <img src="https://github.com/gilbarbara/logos/blob/main/logos/docker-icon.svg" title="Docker" alt="docker" width="45" height="45"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="aws" title="AWS" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/JefeThePug/JefeThePug/jupyter.svg" alt="jupyter" title="Jupyter" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/JefeThePug/JefeThePug/skills/jupyter.svg" alt="jupyter" title="Jupyter" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" title="VSCode" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" title="JetBrains" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" title="PyCharm" width="45" height="45"/>
