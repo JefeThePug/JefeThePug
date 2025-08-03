@@ -59,7 +59,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pyscript/pyscript-original-wordmark.svg" alt="pyscript" title="Pyscript" width="45" height="45"/>
     <img src="https://www.svgrepo.com/show/373702/jinja.svg" alt="jinja" title="Jinja" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" title="SQLite" width="45" height="45"/> 
-    <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" title="SQLAlchemy" width="45" height="45"/>-->
+    <img src="sqlalchemy.svg" alt="sqlalchemy" title="SQLAlchemy" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" title="PostgreSQL" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" title="MongoDB" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" title="Postman" width="45" height="45"/>
