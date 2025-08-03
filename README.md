@@ -58,8 +58,8 @@
     <img src="https://styles.redditmedia.com/t5_2rkfn/styles/communityIcon_cmjo55tgjjp81.png" alt="pygame" title="Pygame" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pyscript/pyscript-original-wordmark.svg" alt="pyscript" title="Pyscript" width="45" height="45"/>
     <img src="https://www.svgrepo.com/show/373702/jinja.svg" alt="jinja" title="Jinja" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" title="SQLite" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" title="SQLAlchemy" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" title="SQLite" width="45" height="45"/> 
+    <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" title="SQLAlchemy" width="45" height="45"/>-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" title="PostgreSQL" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" title="MongoDB" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" title="Postman" width="45" height="45"/>
@@ -69,9 +69,9 @@
     <img src="https://www.crummy.com/software/BeautifulSoup/10.1.jpg" alt="beautifulsoup" title="Beautiful Soup" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="anaconda" title="Anaconda" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" title="Git" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="github" width="45" height="45"/>
+    <img src="https://github.com/detain/svg-logos/blob/master/svg/g/github-icon-2.svg" title="GitHub" alt="github" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="docker" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" title="AWS" width="45" height="45"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg" alt="aws" title="AWS" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" title="Jupyter" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" title="VSCode" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" title="JetBrains" width="45" height="45"/>
