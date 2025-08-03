@@ -6,7 +6,7 @@
     <tr>
       <td>
         <a href="https://jefethepug.github.io" alt="Portfolio Website" target="_blank">
-          <img src="website.svg" height="60px">
+          <img src="https://cdn.jsdelivr.net/gh/JefeThePug/JefeThePug/website.svg" height="60">
         </a>
       </td>
       <td rowspan="2">
@@ -14,19 +14,19 @@
       </td>
       <td>
         <a href="https://discord.com/users/609283782897303554" alt="Discord Account"  target="_blank">
-          <img src="discord.svg" height="60px">
+          <img src="https://cdn.jsdelivr.net/gh/JefeThePug/JefeThePug/discord.svg" height="60">
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://buymeacoffee.com/jefethepug" alt="Buy Me A Coffee" target="_blank">
-          <img src="coffee.svg" height="60px">
+          <img src="https://cdn.jsdelivr.net/gh/JefeThePug/JefeThePug/coffee.svg" height="60">
         </a>
       </td>
       <td>
         <a href="https://adventure.practicalpython.org" alt=Coding Adventure" target="_blank">
-          <img src="puzzle.svg" style="height: 60px !important;">
+          <img src="https://cdn.jsdelivr.net/gh/JefeThePug/JefeThePug/puzzle.svg" height="60">
         </a>
       </td>
     </tr>
@@ -59,7 +59,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pyscript/pyscript-original-wordmark.svg" alt="pyscript" title="Pyscript" width="45" height="45"/>
     <img src="https://www.svgrepo.com/show/373702/jinja.svg" alt="jinja" title="Jinja" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" title="SQLite" width="45" height="45"/> 
-    <img src="sqlalchemy.svg" alt="sqlalchemy" title="SQLAlchemy" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/JefeThePug/JefeThePug/sqlalchemy.svg" alt="sqlalchemy" title="SQLAlchemy" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" title="PostgreSQL" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" title="MongoDB" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" title="Postman" width="45" height="45"/>
@@ -70,9 +70,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="anaconda" title="Anaconda" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" title="Git" width="45" height="45"/>
     <img src="https://github.com/detain/svg-logos/blob/master/svg/g/github-icon-2.svg" title="GitHub" alt="github" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="docker" width="45" height="45"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg" alt="aws" title="AWS" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" title="Jupyter" width="45" height="45"/>
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/docker-icon.svg" title="Docker" alt="docker" width="45" height="45"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="aws" title="AWS" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/JefeThePug/JefeThePug/jupyter.svg" alt="jupyter" title="Jupyter" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" title="VSCode" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" title="JetBrains" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" title="PyCharm" width="45" height="45"/>
