@@ -41,7 +41,7 @@
   <h2>Tools I Have Used and Learned</h2>
   <h6>Python</h6>
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" title="Python" width="45" height="45"/>
+    <img src="ico/python.svg" alt="python" title="Python" width="45" height="45"/>
     <img src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" alt="flask" title="Flask" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" title="Numpy" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas" width="45" height="45"/>
@@ -113,4 +113,3 @@
 <p align="center" dir="auto">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=85&color=0:A5FECB,50:20BDFF,100:5433FF&reversal=false&section=footer"/>
 </p>
-
