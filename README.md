@@ -49,14 +49,16 @@
 <td align="center"><img src="ico/pandas.svg" width="70" height="70"><br><sub>Pandas</sub></td>
 <td align="center"><img src="ico/discordpy.svg" width="70" height="70"><br><sub>Discord.py</sub></td>
 <td align="center"><img src="ico/tkinter.svg" width="70" height="70"><br><sub>Tkinter</sub></td>
+</tr>
+<tr>
 <td align="center"><img src="ico/pyqt.svg" width="70" height="70"><br><sub>PyQT</sub></td>
 <td align="center"><img src="ico/pygame.svg" width="70" height="70"><br><sub>Pygame</sub></td>
 <td align="center"><img src="ico/pyscript.svg" width="70" height="70"><br><sub>Pyscript</sub></td>
-</tr>
-<tr>
 <td align="center"><img src="ico/jinja.svg" width="70" height="70"><br><sub>Jinja</sub></td>
 <td align="center"><img src="ico/requests.svg" width="70" height="70"><br><sub>Requests</sub></td>
 <td align="center"><img src="ico/bs4.svg" width="70" height="70"><br><sub>BeautifulSoup</sub></td>
+</tr>
+<tr>
 <td align="center"><img src="ico/sqla.svg" width="70" height="70"><br><sub>SQLAlchemy</sub></td>
 <td align="center"><img src="ico/openpyxl.svg" width="70" height="70"><br><sub>OpenPyXl</sub></td>
 <td align="center"><img src="ico/nltk.svg" width="70" height="70"><br><sub>NLTK</sub></td>
@@ -73,9 +75,12 @@
 <td align="center"><img src="ico/kotlin.svg" width="70" height="70"><br><sub>Kotlin</sub></td>
 <td align="center"><img src="ico/spring.svg" width="70" height="70"><br><sub>Spring</sub></td>
 <td align="center"><img src="ico/gradle.svg" width="70" height="70"><br><sub>Gradle</sub></td>
+</tr>
+<tr>
 <td align="center"><img src="ico/thyme.svg" width="70" height="70"><br><sub>Thymeleaf</sub></td>
 <td align="center"><img src="ico/intelij.svg" width="70" height="70"><br><sub>IntelliJ</sub></td>
 <td align="center"><img src="ico/eclipse.svg" width="70" height="70"><br><sub>Eclipse</sub></td>
+<td></td>
 </tr>
 </table>
 
@@ -96,6 +101,9 @@
 <td align="center"><img src="ico/vba.svg" width="70" height="70"><br><sub>VBA</sub></td>
 <td align="center"><img src="ico/c.svg" width="70" height="70"><br><sub>C</sub></td>
 <td align="center"><img src="ico/latex.svg" width="70" height="70"><br><sub>LaTeX</sub></td>
+<td align="center"><img src="ico/markdown.svg" width="70" height="70"><br><sub>Markdown</sub></td>
+</tr>
+<tr>
 <td align="center"><img src="ico/sql.svg" width="70" height="70"><br><sub>SQL</sub></td>
 <td align="center"><img src="ico/sqlite.svg" width="70" height="70"><br><sub>SQLite</sub></td>
 <td align="center"><img src="ico/postgresql.svg" width="70" height="70"><br><sub>PostgreSQL</sub></td>
@@ -111,12 +119,13 @@
 <td align="center"><img src="ico/docker.svg" width="70" height="70"><br><sub>Docker</sub></td>
 <td align="center"><img src="ico/aws.svg" width="70" height="70"><br><sub>AWS</sub></td>
 <td align="center"><img src="ico/vscode.svg" width="70" height="70"><br><sub>VSCode</sub></td>
+<tr>
+</tr>
 <td align="center"><img src="ico/jetbrains.svg" width="70" height="70"><br><sub>JetBrains</sub></td>
 <td align="center"><img src="ico/sublime.svg" width="70" height="70"><br><sub>Sublime</sub></td>
 <td align="center"><img src="ico/graphql.svg" width="70" height="70"><br><sub>GraphQL</sub></td>
 <td align="center"><img src="ico/restapi.svg" width="70" height="70"><br><sub>REST API</sub></td>
 <td align="center"><img src="ico/postman.svg" width="70" height="70"><br><sub>Postman</sub></td>
-<td align="center"><img src="ico/markdown.svg" width="70" height="70"><br><sub>Markdown</sub></td>
 </tr>
 </table>
 
