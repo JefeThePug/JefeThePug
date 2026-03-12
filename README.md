@@ -42,16 +42,16 @@
 
 <h5>Python</h5>
 
-<p align="center">
+<span>
 <img src="ico/python.svg" width="70">
 <img src="ico/flask.svg" width="70">
 <img src="ico/numpy.svg" width="70">
 <img src="ico/pandas.svg" width="70">
 <img src="ico/discordpy.svg" width="70">
 <img src="ico/tkinter.svg" width="70">
-</p>
+</span>
 
-<table align="center">
+<table>
 <tr>
 <td align="center" width="70"><sub>Python</sub></td>
 <td align="center" width="70"><sub>Flask</sub></td>
@@ -62,16 +62,16 @@
 </tr>
 </table>
 
-<p align="center">
+<span>
 <img src="ico/pyqt.svg" width="70">
 <img src="ico/pygame.svg" width="70">
 <img src="ico/pyscript.svg" width="70">
 <img src="ico/jinja.svg" width="70">
 <img src="ico/requests.svg" width="70">
 <img src="ico/bs4.svg" width="70">
-</p>
+</span>
 
-<table align="center">
+<table>
 <tr>
 <td align="center" width="70"><sub>PyQT</sub></td>
 <td align="center" width="70"><sub>Pygame</sub></td>
@@ -82,16 +82,16 @@
 </tr>
 </table>
 
-<p align="center">
+<span>
 <img src="ico/sqla.svg" width="70">
 <img src="ico/openpyxl.svg" width="70">
 <img src="ico/nltk.svg" width="70">
 <img src="ico/pycharm.svg" width="70">
 <img src="ico/anaconda.svg" width="70">
 <img src="ico/jupyter.svg" width="70">
-</p>
+</span>
 
-<table align="center">
+<table>
 <tr>
 <td align="center" width="70"><sub>SQLAlchemy</sub></td>
 <td align="center" width="70"><sub>OpenPyXL</sub></td>
@@ -104,14 +104,14 @@
 
 <h5>Java</h5>
 
-<p align="center">
+<span>
 <img src="ico/java.svg" width="70">
 <img src="ico/kotlin.svg" width="70">
 <img src="ico/spring.svg" width="70">
 <img src="ico/gradle.svg" width="70">
-</p>
+</span>
 
-<table align="center">
+<table>
 <tr>
 <td align="center" width="70"><sub>Java</sub></td>
 <td align="center" width="70"><sub>Kotlin</sub></td>
@@ -120,13 +120,13 @@
 </tr>
 </table>
 
-<p align="center">
+<span>
 <img src="ico/thyme.svg" width="70">
 <img src="ico/intelij.svg" width="70">
 <img src="ico/eclipse.svg" width="70">
-</p>
+</span>
 
-<table align="center">
+<table>
 <tr>
 <td align="center" width="70"><sub>Thymeleaf</sub></td>
 <td align="center" width="70"><sub>IntelliJ</sub></td>
@@ -136,15 +136,15 @@
 
 <h5>Javascript/Web</h5>
 
-<p align="center">
+<span>
 <img src="ico/javascript.svg" width="70">
 <img src="ico/css.svg" width="70">
 <img src="ico/html.svg" width="70">
 <img src="ico/p5js.svg" width="70">
 <img src="ico/webstorm.svg" width="70">
-</p>
+</span>
 
-<table align="center">
+<table>
 <tr>
 <td align="center" width="70"><sub>JavaScript</sub></td>
 <td align="center" width="70"><sub>CSS</sub></td>
@@ -156,14 +156,14 @@
 
 <h5>Other Languages & Databases</h5>
 
-<p align="center">
+<span>
 <img src="ico/vba.svg" width="70">
 <img src="ico/c.svg" width="70">
 <img src="ico/latex.svg" width="70">
 <img src="ico/markdown.svg" width="70">
-</p>
+</span>
 
-<table align="center">
+<table>
 <tr>
 <td align="center" width="70"><sub>VBA</sub></td>
 <td align="center" width="70"><sub>C</sub></td>
@@ -172,14 +172,14 @@
 </tr>
 </table>
 
-<p align="center">
+<span>
 <img src="ico/sql.svg" width="70">
 <img src="ico/sqlite.svg" width="70">
 <img src="ico/postgresql.svg" width="70">
 <img src="ico/mongodb.svg" width="70">
-</p>
+</span>
 
-<table align="center">
+<table>
 <tr>
 <td align="center" width="70"><sub>SQL</sub></td>
 <td align="center" width="70"><sub>SQLite</sub></td>
@@ -190,15 +190,15 @@
 
 <h5>Dev Tools & Platforms</h5>
 
-<p align="center">
+<span>
 <img src="ico/git.svg" width="70">
 <img src="ico/github.svg" width="70">
 <img src="ico/docker.svg" width="70">
 <img src="ico/aws.svg" width="70">
 <img src="ico/vscode.svg" width="70">
-</p>
+</span>
 
-<table align="center">
+<table>
 <tr>
 <td align="center" width="70"><sub>Git</sub></td>
 <td align="center" width="70"><sub>GitHub</sub></td>
@@ -208,15 +208,15 @@
 </tr>
 </table>
 
-<p align="center">
+<span>
 <img src="ico/jetbrains.svg" width="70">
 <img src="ico/sublime.svg" width="70">
 <img src="ico/graphql.svg" width="70">
 <img src="ico/restapi.svg" width="70">
 <img src="ico/postman.svg" width="70">
-</p>
+</span>
 
-<table align="center">
+<table>
 <tr>
 <td align="center" width="70"><sub>JetBrains</sub></td>
 <td align="center" width="70"><sub>Sublime</sub></td>
@@ -228,15 +228,15 @@
 
 <h5>Design & Media</h5>
 
-<p align="center">
+<span>
 <img src="ico/gimp.svg" width="70">
 <img src="ico/inkscape.svg" width="70">
 <img src="ico/photoshop.svg" width="70">
 <img src="ico/keynote.svg" width="70">
 <img src="ico/powerpoint.svg" width="70">
-</p>
+</span>
 
-<table align="center">
+<table>
 <tr>
 <td align="center" width="70"><sub>GIMP</sub></td>
 <td align="center" width="70"><sub>Inkscape</sub></td>
