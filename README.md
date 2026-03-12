@@ -43,12 +43,12 @@
 <h5>Python</h5>
 
 <span>
-<img src="ico/python.svg" width="70">
-<img src="ico/flask.svg" width="70">
-<img src="ico/numpy.svg" width="70">
-<img src="ico/pandas.svg" width="70">
-<img src="ico/discordpy.svg" width="70">
-<img src="ico/tkinter.svg" width="70">
+<img src="ico/python.svg" width="70" align="top">
+<img src="ico/flask.svg" width="70" align="top">
+<img src="ico/numpy.svg" width="70" align="top">
+<img src="ico/pandas.svg" width="70" align="top">
+<img src="ico/discordpy.svg" width="70" align="top">
+<img src="ico/tkinter.svg" width="70" align="top">
 </span>
 
 <table>
@@ -63,12 +63,12 @@
 </table>
 
 <span>
-<img src="ico/pyqt.svg" width="70">
-<img src="ico/pygame.svg" width="70">
-<img src="ico/pyscript.svg" width="70">
-<img src="ico/jinja.svg" width="70">
-<img src="ico/requests.svg" width="70">
-<img src="ico/bs4.svg" width="70">
+<img src="ico/pyqt.svg" width="70" align="top">
+<img src="ico/pygame.svg" width="70" align="top">
+<img src="ico/pyscript.svg" width="70" align="top">
+<img src="ico/jinja.svg" width="70" align="top">
+<img src="ico/requests.svg" width="70" align="top">
+<img src="ico/bs4.svg" width="70" align="top">
 </span>
 
 <table>
@@ -83,12 +83,12 @@
 </table>
 
 <span>
-<img src="ico/sqla.svg" width="70">
-<img src="ico/openpyxl.svg" width="70">
-<img src="ico/nltk.svg" width="70">
-<img src="ico/pycharm.svg" width="70">
-<img src="ico/anaconda.svg" width="70">
-<img src="ico/jupyter.svg" width="70">
+<img src="ico/sqla.svg" width="70" align="top">
+<img src="ico/openpyxl.svg" width="70" align="top">
+<img src="ico/nltk.svg" width="70" align="top">
+<img src="ico/pycharm.svg" width="70" align="top">
+<img src="ico/anaconda.svg" width="70" align="top">
+<img src="ico/jupyter.svg" width="70" align="top">
 </span>
 
 <table>
@@ -105,10 +105,10 @@
 <h5>Java</h5>
 
 <span>
-<img src="ico/java.svg" width="70">
-<img src="ico/kotlin.svg" width="70">
-<img src="ico/spring.svg" width="70">
-<img src="ico/gradle.svg" width="70">
+<img src="ico/java.svg" width="70" align="top">
+<img src="ico/kotlin.svg" width="70" align="top">
+<img src="ico/spring.svg" width="70" align="top">
+<img src="ico/gradle.svg" width="70" align="top">
 </span>
 
 <table>
@@ -121,9 +121,9 @@
 </table>
 
 <span>
-<img src="ico/thyme.svg" width="70">
-<img src="ico/intelij.svg" width="70">
-<img src="ico/eclipse.svg" width="70">
+<img src="ico/thyme.svg" width="70" align="top">
+<img src="ico/intelij.svg" width="70" align="top">
+<img src="ico/eclipse.svg" width="70" align="top">
 </span>
 
 <table>
@@ -137,11 +137,11 @@
 <h5>Javascript/Web</h5>
 
 <span>
-<img src="ico/javascript.svg" width="70">
-<img src="ico/css.svg" width="70">
-<img src="ico/html.svg" width="70">
-<img src="ico/p5js.svg" width="70">
-<img src="ico/webstorm.svg" width="70">
+<img src="ico/javascript.svg" width="70" align="top">
+<img src="ico/css.svg" width="70" align="top">
+<img src="ico/html.svg" width="70" align="top">
+<img src="ico/p5js.svg" width="70" align="top">
+<img src="ico/webstorm.svg" width="70" align="top">
 </span>
 
 <table>
@@ -157,10 +157,10 @@
 <h5>Other Languages & Databases</h5>
 
 <span>
-<img src="ico/vba.svg" width="70">
-<img src="ico/c.svg" width="70">
-<img src="ico/latex.svg" width="70">
-<img src="ico/markdown.svg" width="70">
+<img src="ico/vba.svg" width="70" align="top">
+<img src="ico/c.svg" width="70" align="top">
+<img src="ico/latex.svg" width="70" align="top">
+<img src="ico/markdown.svg" width="70" align="top">
 </span>
 
 <table>
@@ -173,10 +173,10 @@
 </table>
 
 <span>
-<img src="ico/sql.svg" width="70">
-<img src="ico/sqlite.svg" width="70">
-<img src="ico/postgresql.svg" width="70">
-<img src="ico/mongodb.svg" width="70">
+<img src="ico/sql.svg" width="70" align="top">
+<img src="ico/sqlite.svg" width="70" align="top">
+<img src="ico/postgresql.svg" width="70" align="top">
+<img src="ico/mongodb.svg" width="70" align="top">
 </span>
 
 <table>
@@ -191,11 +191,11 @@
 <h5>Dev Tools & Platforms</h5>
 
 <span>
-<img src="ico/git.svg" width="70">
-<img src="ico/github.svg" width="70">
-<img src="ico/docker.svg" width="70">
-<img src="ico/aws.svg" width="70">
-<img src="ico/vscode.svg" width="70">
+<img src="ico/git.svg" width="70" align="top">
+<img src="ico/github.svg" width="70" align="top">
+<img src="ico/docker.svg" width="70" align="top">
+<img src="ico/aws.svg" width="70" align="top">
+<img src="ico/vscode.svg" width="70" align="top">
 </span>
 
 <table>
@@ -209,11 +209,11 @@
 </table>
 
 <span>
-<img src="ico/jetbrains.svg" width="70">
-<img src="ico/sublime.svg" width="70">
-<img src="ico/graphql.svg" width="70">
-<img src="ico/restapi.svg" width="70">
-<img src="ico/postman.svg" width="70">
+<img src="ico/jetbrains.svg" width="70" align="top">
+<img src="ico/sublime.svg" width="70" align="top">
+<img src="ico/graphql.svg" width="70" align="top">
+<img src="ico/restapi.svg" width="70" align="top">
+<img src="ico/postman.svg" width="70" align="top">
 </span>
 
 <table>
@@ -229,11 +229,11 @@
 <h5>Design & Media</h5>
 
 <span>
-<img src="ico/gimp.svg" width="70">
-<img src="ico/inkscape.svg" width="70">
-<img src="ico/photoshop.svg" width="70">
-<img src="ico/keynote.svg" width="70">
-<img src="ico/powerpoint.svg" width="70">
+<img src="ico/gimp.svg" width="70" align="top">
+<img src="ico/inkscape.svg" width="70" align="top">
+<img src="ico/photoshop.svg" width="70" align="top">
+<img src="ico/keynote.svg" width="70" align="top">
+<img src="ico/powerpoint.svg" width="70" align="top">
 </span>
 
 <table>
