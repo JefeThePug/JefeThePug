@@ -53,12 +53,12 @@
 
 <table>
 <tr>
-<td align="center" width="70"><sub>Python</sub></td>
-<td align="center" width="70"><sub>Flask</sub></td>
-<td align="center" width="70"><sub>Numpy</sub></td>
-<td align="center" width="70"><sub>Pandas</sub></td>
-<td align="center" width="70"><sub>Discord.py</sub></td>
-<td align="center" width="70"><sub>Tkinter</sub></td>
+<td align="center" width="70"><sub><sup>Python</sup></sub></td>
+<td align="center" width="70"><sub><sup>Flask</sup></sub></td>
+<td align="center" width="70"><sub><sup>Numpy</sup></sub></td>
+<td align="center" width="70"><sub><sup>Pandas</sup></sub></td>
+<td align="center" width="70"><sub><sup>Discord.py</sup></sub></td>
+<td align="center" width="70"><sub><sup>Tkinter</sup></sub></td>
 </tr>
 </table>
 
@@ -73,12 +73,12 @@
 
 <table>
 <tr>
-<td align="center" width="70"><sub>PyQT</sub></td>
-<td align="center" width="70"><sub>Pygame</sub></td>
-<td align="center" width="70"><sub>Pyscript</sub></td>
-<td align="center" width="70"><sub>Jinja</sub></td>
-<td align="center" width="70"><sub>Requests</sub></td>
-<td align="center" width="70"><sub>BeautifulSoup</sub></td>
+<td align="center" width="70"><sub><sup>PyQT</sup></sub></td>
+<td align="center" width="70"><sub><sup>Pygame</sup></sub></td>
+<td align="center" width="70"><sub><sup>Pyscript</sup></sub></td>
+<td align="center" width="70"><sub><sup>Jinja</sup></sub></td>
+<td align="center" width="70"><sub><sup>Requests</sup></sub></td>
+<td align="center" width="70"><sub><sup>BeautifulSoup</sup></sub></td>
 </tr>
 </table>
 
@@ -93,12 +93,12 @@
 
 <table>
 <tr>
-<td align="center" width="70"><sub>SQLAlchemy</sub></td>
-<td align="center" width="70"><sub>OpenPyXL</sub></td>
-<td align="center" width="70"><sub>NLTK</sub></td>
-<td align="center" width="70"><sub>PyCharm</sub></td>
-<td align="center" width="70"><sub>Anaconda</sub></td>
-<td align="center" width="70"><sub>Jupyter</sub></td>
+<td align="center" width="70"><sub><sup>SQLAlchemy</sup></sub></td>
+<td align="center" width="70"><sub><sup>OpenPyXL</sup></sub></td>
+<td align="center" width="70"><sub><sup>NLTK</sup></sub></td>
+<td align="center" width="70"><sub><sup>PyCharm</sup></sub></td>
+<td align="center" width="70"><sub><sup>Anaconda</sup></sub></td>
+<td align="center" width="70"><sub><sup>Jupyter</sup></sub></td>
 </tr>
 </table>
 
@@ -113,10 +113,10 @@
 
 <table>
 <tr>
-<td align="center" width="70"><sub>Java</sub></td>
-<td align="center" width="70"><sub>Kotlin</sub></td>
-<td align="center" width="70"><sub>Spring</sub></td>
-<td align="center" width="70"><sub>Gradle</sub></td>
+<td align="center" width="70"><sub><sup>Java</sup></sub></td>
+<td align="center" width="70"><sub><sup>Kotlin</sup></sub></td>
+<td align="center" width="70"><sub><sup>Spring</sup></sub></td>
+<td align="center" width="70"><sub><sup>Gradle</sup></sub></td>
 </tr>
 </table>
 
@@ -128,9 +128,9 @@
 
 <table>
 <tr>
-<td align="center" width="70"><sub>Thymeleaf</sub></td>
-<td align="center" width="70"><sub>IntelliJ</sub></td>
-<td align="center" width="70"><sub>Eclipse</sub></td>
+<td align="center" width="70"><sub><sup>Thymeleaf</sup></sub></td>
+<td align="center" width="70"><sub><sup>IntelliJ</sup></sub></td>
+<td align="center" width="70"><sub><sup>Eclipse</sup></sub></td>
 </tr>
 </table>
 
@@ -146,11 +146,11 @@
 
 <table>
 <tr>
-<td align="center" width="70"><sub>JavaScript</sub></td>
-<td align="center" width="70"><sub>CSS</sub></td>
-<td align="center" width="70"><sub>HTML</sub></td>
-<td align="center" width="70"><sub>P5.js</sub></td>
-<td align="center" width="70"><sub>WebStorm</sub></td>
+<td align="center" width="70"><sub><sup>JavaScript</sup></sub></td>
+<td align="center" width="70"><sub><sup>CSS</sup></sub></td>
+<td align="center" width="70"><sub><sup>HTML</sup></sub></td>
+<td align="center" width="70"><sub><sup>P5.js</sup></sub></td>
+<td align="center" width="70"><sub><sup>WebStorm</sup></sub></td>
 </tr>
 </table>
 
@@ -165,10 +165,10 @@
 
 <table>
 <tr>
-<td align="center" width="70"><sub>VBA</sub></td>
-<td align="center" width="70"><sub>C</sub></td>
-<td align="center" width="70"><sub>LaTeX</sub></td>
-<td align="center" width="70"><sub>Markdown</sub></td>
+<td align="center" width="70"><sub><sup>VBA</sup></sub></td>
+<td align="center" width="70"><sub><sup>C</sup></sub></td>
+<td align="center" width="70"><sub><sup>LaTeX</sup></sub></td>
+<td align="center" width="70"><sub><sup>Markdown</sup></sub></td>
 </tr>
 </table>
 
@@ -181,10 +181,10 @@
 
 <table>
 <tr>
-<td align="center" width="70"><sub>SQL</sub></td>
-<td align="center" width="70"><sub>SQLite</sub></td>
-<td align="center" width="70"><sub>PostgreSQL</sub></td>
-<td align="center" width="70"><sub>MongoDB</sub></td>
+<td align="center" width="70"><sub><sup>SQL</sup></sub></td>
+<td align="center" width="70"><sub><sup>SQLite</sup></sub></td>
+<td align="center" width="70"><sub><sup>PostgreSQL</sup></sub></td>
+<td align="center" width="70"><sub><sup>MongoDB</sup></sub></td>
 </tr>
 </table>
 
@@ -200,11 +200,11 @@
 
 <table>
 <tr>
-<td align="center" width="70"><sub>Git</sub></td>
-<td align="center" width="70"><sub>GitHub</sub></td>
-<td align="center" width="70"><sub>Docker</sub></td>
-<td align="center" width="70"><sub>AWS</sub></td>
-<td align="center" width="70"><sub>VSCode</sub></td>
+<td align="center" width="70"><sub><sup>Git</sup></sub></td>
+<td align="center" width="70"><sub><sup>GitHub</sup></sub></td>
+<td align="center" width="70"><sub><sup>Docker</sup></sub></td>
+<td align="center" width="70"><sub><sup>AWS</sup></sub></td>
+<td align="center" width="70"><sub><sup>VSCode</sup></sub></td>
 </tr>
 </table>
 
@@ -218,11 +218,11 @@
 
 <table>
 <tr>
-<td align="center" width="70"><sub>JetBrains</sub></td>
-<td align="center" width="70"><sub>Sublime</sub></td>
-<td align="center" width="70"><sub>GraphQL</sub></td>
-<td align="center" width="70"><sub>REST API</sub></td>
-<td align="center" width="70"><sub>Postman</sub></td>
+<td align="center" width="70"><sub><sup>JetBrains</sup></sub></td>
+<td align="center" width="70"><sub><sup>Sublime</sup></sub></td>
+<td align="center" width="70"><sub><sup>GraphQL</sup></sub></td>
+<td align="center" width="70"><sub><sup>REST API</sup></sub></td>
+<td align="center" width="70"><sub><sup>Postman</sup></sub></td>
 </tr>
 </table>
 
@@ -238,11 +238,11 @@
 
 <table>
 <tr>
-<td align="center" width="70"><sub>GIMP</sub></td>
-<td align="center" width="70"><sub>Inkscape</sub></td>
-<td align="center" width="70"><sub>Photoshop</sub></td>
-<td align="center" width="70"><sub>Keynote</sub></td>
-<td align="center" width="70"><sub>PowerPoint</sub></td>
+<td align="center" width="70"><sub><sup>GIMP</sup></sub></td>
+<td align="center" width="70"><sub><sup>Inkscape</sup></sub></td>
+<td align="center" width="70"><sub><sup>Photoshop</sup></sub></td>
+<td align="center" width="70"><sub><sup>Keynote</sup></sub></td>
+<td align="center" width="70"><sub><sup>PowerPoint</sup></sub></td>
 </tr>
 </table>
   
