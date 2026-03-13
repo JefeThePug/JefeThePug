@@ -162,7 +162,7 @@
 </tr>
 </table>
 
-<h5>Data & Text Technologies</h5>
+<h5>Other Languages, Database, & Text Technologies</h5>
 
 <span>
 <img src="ico/vba.svg" width="70" align="top">
