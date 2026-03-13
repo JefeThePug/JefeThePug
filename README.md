@@ -48,7 +48,6 @@
 <img src="ico/numpy.svg" width="70" align="top">
 <img src="ico/pandas.svg" width="70" align="top">
 <img src="ico/discordpy.svg" width="70" align="top">
-<img src="ico/tkinter.svg" width="70" align="top">
 </span>
 
 <table>
@@ -58,34 +57,46 @@
 <td align="center" width="72"><sub><sup>Numpy</sup></sub></td>
 <td align="center" width="72"><sub><sup>Pandas</sup></sub></td>
 <td align="center" width="72"><sub><sup>Discord.py</sup></sub></td>
-<td align="center" width="72"><sub><sup>Tkinter</sup></sub></td>
 </tr>
 </table>
 
 <span>
+<img src="ico/tkinter.svg" width="70" align="top">
 <img src="ico/pyqt.svg" width="70" align="top">
 <img src="ico/pygame.svg" width="70" align="top">
 <img src="ico/pyscript.svg" width="70" align="top">
 <img src="ico/jinja.svg" width="70" align="top">
-<img src="ico/requests.svg" width="70" align="top">
-<img src="ico/bs4.svg" width="70" align="top">
 </span>
 
 <table>
 <tr>
+<td align="center" width="72"><sub><sup>Tkinter</sup></sub></td>
 <td align="center" width="72"><sub><sup>PyQT</sup></sub></td>
 <td align="center" width="72"><sub><sup>Pygame</sup></sub></td>
 <td align="center" width="72"><sub><sup>Pyscript</sup></sub></td>
 <td align="center" width="72"><sub><sup>Jinja</sup></sub></td>
-<td align="center" width="72"><sub><sup>Requests</sup></sub></td>
-<td align="center" width="72"><sub><sup>BeautifulSoup</sup></sub></td>
 </tr>
 </table>
 
 <span>
+<img src="ico/requests.svg" width="70" align="top">
+<img src="ico/bs4.svg" width="70" align="top">
 <img src="ico/sqla.svg" width="70" align="top">
 <img src="ico/openpyxl.svg" width="70" align="top">
 <img src="ico/nltk.svg" width="70" align="top">
+</span>
+
+<table>
+<tr>
+<td align="center" width="72"><sub><sup>Requests</sup></sub></td>
+<td align="center" width="72"><sub><sup>BeautifulSoup</sup></sub></td>
+<td align="center" width="72"><sub><sup>SQLAlchemy</sup></sub></td>
+<td align="center" width="72"><sub><sup>OpenPyXL</sup></sub></td>
+<td align="center" width="72"><sub><sup>NLTK</sup></sub></td>
+</tr>
+</table>
+
+<span>
 <img src="ico/pycharm.svg" width="70" align="top">
 <img src="ico/anaconda.svg" width="70" align="top">
 <img src="ico/jupyter.svg" width="70" align="top">
@@ -93,9 +104,6 @@
 
 <table>
 <tr>
-<td align="center" width="72"><sub><sup>SQLAlchemy</sup></sub></td>
-<td align="center" width="72"><sub><sup>OpenPyXL</sup></sub></td>
-<td align="center" width="72"><sub><sup>NLTK</sup></sub></td>
 <td align="center" width="72"><sub><sup>PyCharm</sup></sub></td>
 <td align="center" width="72"><sub><sup>Anaconda</sup></sub></td>
 <td align="center" width="72"><sub><sup>Jupyter</sup></sub></td>
@@ -159,6 +167,7 @@
 <span>
 <img src="ico/vba.svg" width="70" align="top">
 <img src="ico/c.svg" width="70" align="top">
+<img src="ico/regex.svg" width="70" align="top">
 <img src="ico/latex.svg" width="70" align="top">
 <img src="ico/markdown.svg" width="70" align="top">
 </span>
@@ -167,6 +176,7 @@
 <tr>
 <td align="center" width="72"><sub><sup>VBA</sup></sub></td>
 <td align="center" width="72"><sub><sup>C</sup></sub></td>
+<td align="center" width="72"><sub><sup>LaTeX</sup></sub></td>
 <td align="center" width="72"><sub><sup>LaTeX</sup></sub></td>
 <td align="center" width="72"><sub><sup>Markdown</sup></sub></td>
 </tr>
