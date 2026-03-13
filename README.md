@@ -184,7 +184,7 @@
 <img src="ico/markdown.svg" width="70" align="top">
 <img src="ico/json.svg" width="70" align="top">
 <img src="ico/yaml.svg" width="70" align="top">
-<img src="ico/toml2.svg" width="70" align="top">
+<img src="ico/toml.svg" width="70" align="top">
 </span>
 
 <table>
