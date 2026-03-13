@@ -162,14 +162,13 @@
 </tr>
 </table>
 
-<h5>Other Languages & Databases</h5>
+<h5>Data & Text Technologies</h5>
 
 <span>
 <img src="ico/vba.svg" width="70" align="top">
 <img src="ico/c.svg" width="70" align="top">
 <img src="ico/regex.svg" width="70" align="top">
 <img src="ico/latex.svg" width="70" align="top">
-<img src="ico/markdown.svg" width="70" align="top">
 </span>
 
 <table>
@@ -178,7 +177,22 @@
 <td align="center" width="72"><sub><sup>C</sup></sub></td>
 <td align="center" width="72"><sub><sup>RegEx</sup></sub></td>
 <td align="center" width="72"><sub><sup>LaTeX</sup></sub></td>
+</tr>
+</table>
+
+<span>
+<img src="ico/markdown.svg" width="70" align="top">
+<img src="ico/json.svg" width="70" align="top">
+<img src="ico/yaml.svg" width="70" align="top">
+<img src="ico/toml.svg" width="70" align="top">
+</span>
+
+<table>
+<tr>
 <td align="center" width="72"><sub><sup>Markdown</sup></sub></td>
+<td align="center" width="72"><sub><sup>JSON</sup></sub></td>
+<td align="center" width="72"><sub><sup>YAML</sup></sub></td>
+<td align="center" width="72"><sub><sup>TOML</sup></sub></td>
 </tr>
 </table>
 
