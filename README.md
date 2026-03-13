@@ -176,7 +176,7 @@
 <tr>
 <td align="center" width="72"><sub><sup>VBA</sup></sub></td>
 <td align="center" width="72"><sub><sup>C</sup></sub></td>
-<td align="center" width="72"><sub><sup>LaTeX</sup></sub></td>
+<td align="center" width="72"><sub><sup>RegEx</sup></sub></td>
 <td align="center" width="72"><sub><sup>LaTeX</sup></sub></td>
 <td align="center" width="72"><sub><sup>Markdown</sup></sub></td>
 </tr>
