@@ -35,7 +35,7 @@ div {
   color: mediumaquamarine;
 }
 .val {
-  color: royalblue;
+  color: dodgerblue;
 }
 .typing {
   width: 100%;
