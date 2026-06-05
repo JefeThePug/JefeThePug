@@ -110,6 +110,22 @@
 </tr>
 </table>
 
+<h5>C#/.NET Core</h5>
+
+<span>
+<img src="ico/csharp.svg" width="70" align="top">
+<img src="ico/dotnetcore.svg" width="70" align="top">
+<img src="ico/scalar.svg" width="70" align="top">
+</span>
+
+<table>
+<tr>
+<td align="center" width="72"><sub><sup>C#</sup></sub></td>
+<td align="center" width="72"><sub><sup>.NET Core</sup></sub></td>
+<td align="center" width="72"><sub><sup>Scalar</sup></sub></td>
+</tr>
+</table>
+
 <h5>Java</h5>
 
 <span>
