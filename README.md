@@ -97,6 +97,7 @@
 </table>
 
 <span>
+<img src="ico/uv.svg" width="70" align="top">
 <img src="ico/pycharm.svg" width="70" align="top">
 <img src="ico/anaconda.svg" width="70" align="top">
 <img src="ico/jupyter.svg" width="70" align="top">
@@ -104,6 +105,7 @@
 
 <table>
 <tr>
+<td align="center" width="72"><sub><sup>UV</sup></sub></td>
 <td align="center" width="72"><sub><sup>PyCharm</sup></sub></td>
 <td align="center" width="72"><sub><sup>Anaconda</sup></sub></td>
 <td align="center" width="72"><sub><sup>Jupyter</sup></sub></td>
