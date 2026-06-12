@@ -34,8 +34,8 @@
   <hr/>
   
   <h2>About Me</h2>
-  <p align="center">
-    <img src="skills.svg" height="100%"/>
+  <p align="center" style="padding:2% 20% 0">
+    <img src="skills.svg"/>
   </p>
   
 <h2>Tools I Have Used and Learned</h2>
