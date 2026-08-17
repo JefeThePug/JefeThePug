@@ -291,6 +291,12 @@
   
 <img src="https://raw.githubusercontent.com/JefeThePug/JefeThePug/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
 
+## Support the [Code Adventure](https://github.com/JefeThePug/Practical-Python-Code-Adventure)
+
+If you enjoy the puzzles and want to help me create more code adventures for [https://adventure.practicalpython.org](https://adventure.practicalpython.org):
+
+[![Sponsor me](https://img.shields.io/badge/Sponsor%20me-GitHub-ea4aaa?logo=github)](https://github.com/sponsors/YOUR_USERNAME)
+
 <p align="center" dir="auto">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=85&color=0:A5FECB,50:20BDFF,100:5433FF&reversal=false&section=footer"/>
 </p>
